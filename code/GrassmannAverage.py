@@ -4,7 +4,7 @@ from torch import nn
 import fm_ops as ops
 
 
-class TemporalBottleneck(nn.Module):
+class GrassmannAverageProjection(nn.Module):
     def __init__(self, in_frames, out_frames):
         super(TemporalBottleneck, self).__init__()
         self.temporal_mean = TemporalMean(in_frames, out_frames)
@@ -14,7 +14,7 @@ class TemporalBottleneck(nn.Module):
         x = temporalProjection(x,y)
         return x,weight_penalty
 
-class TemporalBottleneckReconstruct(nn.Module):
+class GrassmannAverageBottleneck(nn.Module):
     def __init__(self, in_frames, out_frames):
         super(TemporalBottleneckReconstruct, self).__init__()
         self.temporal_mean = TemporalMean(in_frames, out_frames)
@@ -26,7 +26,7 @@ class TemporalBottleneckReconstruct(nn.Module):
 
 #Given a video with dimensions [frames, channels, height, width]
 #this module reduces the first dimenion by taking a weighted FM.
-class TemporalMean(nn.Module):
+class GrassmannAverage(nn.Module):
     def __init__(self, in_frames, out_frames):
         super(TemporalMean, self).__init__()
         self.out_frames = out_frames
@@ -73,7 +73,6 @@ def chol_orthogonalize(vector_matrix):
     U = vector_matrix.t()@to.inverse(R)
 
     return U
-
 
 def gram_schmidt(vector_matrix, eps=1e-10):
     vector_matrix = vector_matrix
