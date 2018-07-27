@@ -1,0 +1,2988 @@
+Iteration  0 :  tensor(0.1604)
+Iteration  0  time:  67.88004541397095
+Iteration  1 :  tensor(0.1568)
+Iteration  1  time:  51.16349792480469
+Iteration  2 :  tensor(0.1523)
+Iteration  2  time:  49.39679932594299
+Iteration  3 :  tensor(0.1469)
+Iteration  3  time:  53.27319145202637
+Iteration  4 :  tensor(0.1404)
+Iteration  4  time:  47.89875555038452
+Iteration  5 :  tensor(0.1343)
+Iteration  5  time:  47.653948068618774
+Iteration  6 :  tensor(0.1280)
+Iteration  6  time:  46.06191444396973
+Iteration  7 :  tensor(0.1216)
+Iteration  7  time:  47.31954574584961
+Iteration  8 :  tensor(0.1151)
+Iteration  8  time:  48.38549757003784
+Iteration  9 :  tensor(0.1087)
+Iteration  9  time:  49.07324838638306
+Iteration  10 :  tensor(0.1021)
+Iteration  10  time:  46.72238755226135
+Iteration  11 :  tensor(1.00000e-02 *
+       9.5527)
+Iteration  11  time:  46.95466423034668
+Iteration  12 :  tensor(1.00000e-02 *
+       8.8953)
+Iteration  12  time:  47.89028763771057
+Iteration  13 :  tensor(1.00000e-02 *
+       8.2513)
+Iteration  13  time:  49.872809648513794
+Iteration  14 :  tensor(1.00000e-02 *
+       7.6098)
+Iteration  14  time:  46.762760162353516
+Iteration  15 :  tensor(1.00000e-02 *
+       6.9779)
+Iteration  15  time:  48.4307382106781
+Iteration  16 :  tensor(1.00000e-02 *
+       6.3675)
+Iteration  16  time:  46.12666583061218
+Iteration  17 :  tensor(1.00000e-02 *
+       5.7750)
+Iteration  17  time:  47.84520959854126
+Iteration  18 :  tensor(1.00000e-02 *
+       5.2025)
+Iteration  18  time:  47.50626468658447
+Iteration  19 :  tensor(1.00000e-02 *
+       4.6531)
+Iteration  19  time:  47.68677592277527
+Iteration  20 :  tensor(1.00000e-02 *
+       4.1259)
+Iteration  20  time:  47.07888698577881
+Iteration  21 :  tensor(1.00000e-02 *
+       3.6204)
+Iteration  21  time:  47.227487325668335
+Iteration  22 :  tensor(1.00000e-02 *
+       3.1419)
+Iteration  22  time:  46.343873023986816
+Iteration  23 :  tensor(1.00000e-02 *
+       2.7044)
+Iteration  23  time:  46.81682324409485
+Iteration  24 :  tensor(1.00000e-02 *
+       2.3017)
+Iteration  24  time:  47.737154483795166
+Iteration  25 :  tensor(1.00000e-02 *
+       1.9429)
+Iteration  25  time:  46.5763053894043
+Iteration  26 :  tensor(1.00000e-02 *
+       1.6252)
+Iteration  26  time:  47.37528610229492
+Iteration  27 :  tensor(1.00000e-02 *
+       1.3422)
+Iteration  27  time:  46.50612139701843
+Iteration  28 :  tensor(1.00000e-02 *
+       1.0889)
+Iteration  28  time:  47.60829257965088
+Iteration  29 :  tensor(1.00000e-03 *
+       8.7273)
+Iteration  29  time:  47.064611196517944
+Iteration  30 :  tensor(1.00000e-03 *
+       7.1347)
+Iteration  30  time:  46.77362418174744
+Iteration  31 :  tensor(1.00000e-03 *
+       6.1063)
+Iteration  31  time:  45.407358169555664
+Iteration  32 :  tensor(1.00000e-03 *
+       5.4552)
+Iteration  32  time:  46.875927209854126
+Iteration  33 :  tensor(1.00000e-03 *
+       4.9412)
+Iteration  33  time:  46.6398184299469
+Iteration  34 :  tensor(1.00000e-03 *
+       4.4688)
+Iteration  34  time:  46.10875105857849
+Iteration  35 :  tensor(1.00000e-03 *
+       4.0642)
+Iteration  35  time:  46.66318345069885
+Iteration  36 :  tensor(1.00000e-03 *
+       3.7499)
+Iteration  36  time:  48.52195906639099
+Iteration  37 :  tensor(1.00000e-03 *
+       3.5359)
+Iteration  37  time:  45.912893533706665
+Iteration  38 :  tensor(1.00000e-03 *
+       3.4003)
+Iteration  38  time:  45.848161697387695
+Iteration  39 :  tensor(1.00000e-03 *
+       3.2887)
+Iteration  39  time:  48.78104901313782
+Iteration  40 :  tensor(1.00000e-03 *
+       3.1905)
+Iteration  40  time:  48.069397926330566
+Iteration  41 :  tensor(1.00000e-03 *
+       3.0831)
+Iteration  41  time:  47.72516870498657
+Iteration  42 :  tensor(1.00000e-03 *
+       2.9837)
+Iteration  42  time:  48.615315675735474
+Iteration  43 :  tensor(1.00000e-03 *
+       2.8866)
+Iteration  43  time:  48.63638615608215
+Iteration  44 :  tensor(1.00000e-03 *
+       2.8145)
+Iteration  44  time:  49.051541328430176
+Iteration  45 :  tensor(1.00000e-03 *
+       2.7532)
+Iteration  45  time:  45.32534122467041
+Iteration  46 :  tensor(1.00000e-03 *
+       2.7004)
+Iteration  46  time:  43.587472915649414
+Iteration  47 :  tensor(1.00000e-03 *
+       2.6520)
+Iteration  47  time:  46.11480951309204
+Iteration  48 :  tensor(1.00000e-03 *
+       2.6120)
+Iteration  48  time:  47.82083249092102
+Iteration  49 :  tensor(1.00000e-03 *
+       2.5774)
+Iteration  49  time:  46.695788621902466
+Iteration  50 :  tensor(1.00000e-03 *
+       2.5475)
+Iteration  50  time:  45.683600664138794
+Iteration  51 :  tensor(1.00000e-03 *
+       2.5170)
+Iteration  51  time:  46.676854610443115
+Iteration  52 :  tensor(1.00000e-03 *
+       2.4888)
+Iteration  52  time:  48.45511794090271
+Iteration  53 :  tensor(1.00000e-03 *
+       2.4633)
+Iteration  53  time:  48.123440980911255
+Iteration  54 :  tensor(1.00000e-03 *
+       2.4370)
+Iteration  54  time:  44.89622187614441
+Iteration  55 :  tensor(1.00000e-03 *
+       2.4113)
+Iteration  55  time:  46.0729866027832
+Iteration  56 :  tensor(1.00000e-03 *
+       2.3817)
+Iteration  56  time:  48.016769886016846
+Iteration  57 :  tensor(1.00000e-03 *
+       2.3561)
+Iteration  57  time:  46.43858313560486
+Iteration  58 :  tensor(1.00000e-03 *
+       2.3287)
+Iteration  58  time:  47.82645225524902
+Iteration  59 :  tensor(1.00000e-03 *
+       2.3071)
+Iteration  59  time:  49.59956097602844
+Iteration  60 :  tensor(1.00000e-03 *
+       2.2855)
+Iteration  60  time:  46.80172348022461
+Iteration  61 :  tensor(1.00000e-03 *
+       2.2675)
+Iteration  61  time:  47.76891326904297
+Iteration  62 :  tensor(1.00000e-03 *
+       2.2489)
+Iteration  62  time:  46.35916066169739
+Iteration  63 :  tensor(1.00000e-03 *
+       2.2336)
+Iteration  63  time:  45.583619117736816
+Iteration  64 :  tensor(1.00000e-03 *
+       2.2155)
+Iteration  64  time:  45.06253695487976
+Iteration  65 :  tensor(1.00000e-03 *
+       2.2005)
+Iteration  65  time:  47.49303984642029
+Iteration  66 :  tensor(1.00000e-03 *
+       2.1863)
+Iteration  66  time:  47.37105584144592
+Iteration  67 :  tensor(1.00000e-03 *
+       2.1704)
+Iteration  67  time:  49.501773834228516
+Iteration  68 :  tensor(1.00000e-03 *
+       2.1583)
+Iteration  68  time:  45.68367290496826
+Iteration  69 :  tensor(1.00000e-03 *
+       2.1444)
+Iteration  69  time:  45.45075607299805
+Iteration  70 :  tensor(1.00000e-03 *
+       2.1317)
+Iteration  70  time:  47.67533874511719
+Iteration  71 :  tensor(1.00000e-03 *
+       2.1192)
+Iteration  71  time:  44.97327423095703
+Iteration  72 :  tensor(1.00000e-03 *
+       2.1041)
+Iteration  72  time:  46.87461876869202
+Iteration  73 :  tensor(1.00000e-03 *
+       2.0919)
+Iteration  73  time:  46.18202447891235
+Iteration  74 :  tensor(1.00000e-03 *
+       2.0802)
+Iteration  74  time:  48.905109882354736
+Iteration  75 :  tensor(1.00000e-03 *
+       2.0662)
+Iteration  75  time:  47.813756704330444
+Iteration  76 :  tensor(1.00000e-03 *
+       2.0556)
+Iteration  76  time:  46.35838079452515
+Iteration  77 :  tensor(1.00000e-03 *
+       2.0431)
+Iteration  77  time:  46.40336537361145
+Iteration  78 :  tensor(1.00000e-03 *
+       2.0367)
+Iteration  78  time:  47.32998561859131
+Iteration  79 :  tensor(1.00000e-03 *
+       2.0210)
+Iteration  79  time:  45.25037503242493
+Iteration  80 :  tensor(1.00000e-03 *
+       2.0166)
+Iteration  80  time:  47.741344928741455
+Iteration  81 :  tensor(1.00000e-03 *
+       2.0058)
+Iteration  81  time:  47.81143760681152
+Iteration  82 :  tensor(1.00000e-03 *
+       1.9896)
+Iteration  82  time:  47.888869524002075
+Iteration  83 :  tensor(1.00000e-03 *
+       1.9856)
+Iteration  83  time:  46.63500213623047
+Iteration  84 :  tensor(1.00000e-03 *
+       1.9724)
+Iteration  84  time:  47.68561005592346
+Iteration  85 :  tensor(1.00000e-03 *
+       1.9606)
+Iteration  85  time:  47.0968713760376
+Iteration  86 :  tensor(1.00000e-03 *
+       1.9552)
+Iteration  86  time:  46.22419714927673
+Iteration  87 :  tensor(1.00000e-03 *
+       1.9418)
+Iteration  87  time:  45.10021448135376
+Iteration  88 :  tensor(1.00000e-03 *
+       1.9335)
+Iteration  88  time:  45.22043013572693
+Iteration  89 :  tensor(1.00000e-03 *
+       1.9231)
+Iteration  89  time:  47.538883209228516
+Iteration  90 :  tensor(1.00000e-03 *
+       1.9197)
+Iteration  90  time:  45.364595890045166
+Iteration  91 :  tensor(1.00000e-03 *
+       1.9089)
+Iteration  91  time:  46.744060039520264
+Iteration  92 :  tensor(1.00000e-03 *
+       1.8985)
+Iteration  92  time:  48.02807331085205
+Iteration  93 :  tensor(1.00000e-03 *
+       1.8996)
+Iteration  93  time:  46.91785168647766
+Iteration  94 :  tensor(1.00000e-03 *
+       1.8875)
+Iteration  94  time:  47.209677934646606
+Iteration  95 :  tensor(1.00000e-03 *
+       1.8751)
+Iteration  95  time:  44.82218098640442
+Iteration  96 :  tensor(1.00000e-03 *
+       1.8809)
+Iteration  96  time:  45.52001476287842
+Iteration  97 :  tensor(1.00000e-03 *
+       1.8659)
+Iteration  97  time:  45.74762582778931
+Iteration  98 :  tensor(1.00000e-03 *
+       1.8532)
+Iteration  98  time:  47.446831703186035
+Iteration  99 :  tensor(1.00000e-03 *
+       1.8523)
+Iteration  99  time:  47.0505154132843
+Iteration  100 :  tensor(1.00000e-03 *
+       1.8370)
+Iteration  100  time:  45.39634084701538
+Iteration  101 :  tensor(1.00000e-03 *
+       1.8405)
+Iteration  101  time:  47.6320264339447
+Iteration  102 :  tensor(1.00000e-03 *
+       1.8366)
+Iteration  102  time:  45.51925492286682
+Iteration  103 :  tensor(1.00000e-03 *
+       1.8165)
+Iteration  103  time:  47.46510148048401
+Iteration  104 :  tensor(1.00000e-03 *
+       1.8185)
+Iteration  104  time:  48.37896203994751
+Iteration  105 :  tensor(1.00000e-03 *
+       1.8067)
+Iteration  105  time:  48.04449462890625
+Iteration  106 :  tensor(1.00000e-03 *
+       1.7973)
+Iteration  106  time:  45.104780435562134
+Iteration  107 :  tensor(1.00000e-03 *
+       1.7904)
+Iteration  107  time:  47.78185057640076
+Iteration  108 :  tensor(1.00000e-03 *
+       1.7841)
+Iteration  108  time:  49.21385955810547
+Iteration  109 :  tensor(1.00000e-03 *
+       1.7750)
+Iteration  109  time:  47.41913652420044
+Iteration  110 :  tensor(1.00000e-03 *
+       1.7700)
+Iteration  110  time:  50.94109296798706
+Iteration  111 :  tensor(1.00000e-03 *
+       1.7617)
+Iteration  111  time:  47.39910626411438
+Iteration  112 :  tensor(1.00000e-03 *
+       1.7571)
+Iteration  112  time:  46.70338177680969
+Iteration  113 :  tensor(1.00000e-03 *
+       1.7505)
+Iteration  113  time:  44.32516551017761
+Iteration  114 :  tensor(1.00000e-03 *
+       1.7491)
+Iteration  114  time:  47.29365873336792
+Iteration  115 :  tensor(1.00000e-03 *
+       1.7445)
+Iteration  115  time:  45.59425926208496
+Iteration  116 :  tensor(1.00000e-03 *
+       1.7368)
+Iteration  116  time:  46.6407310962677
+Iteration  117 :  tensor(1.00000e-03 *
+       1.7288)
+Iteration  117  time:  46.45711064338684
+Iteration  118 :  tensor(1.00000e-03 *
+       1.7266)
+Iteration  118  time:  46.887431621551514
+Iteration  119 :  tensor(1.00000e-03 *
+       1.7192)
+Iteration  119  time:  46.25975680351257
+Iteration  120 :  tensor(1.00000e-03 *
+       1.7130)
+Iteration  120  time:  49.625733852386475
+Iteration  121 :  tensor(1.00000e-03 *
+       1.7096)
+Iteration  121  time:  47.31944942474365
+Iteration  122 :  tensor(1.00000e-03 *
+       1.7057)
+Iteration  122  time:  48.31578731536865
+Iteration  123 :  tensor(1.00000e-03 *
+       1.7008)
+Iteration  123  time:  45.94281458854675
+Iteration  124 :  tensor(1.00000e-03 *
+       1.6955)
+Iteration  124  time:  45.752159118652344
+Iteration  125 :  tensor(1.00000e-03 *
+       1.6917)
+Iteration  125  time:  47.243467569351196
+Iteration  126 :  tensor(1.00000e-03 *
+       1.6905)
+Iteration  126  time:  47.616122245788574
+Iteration  127 :  tensor(1.00000e-03 *
+       1.6869)
+Iteration  127  time:  45.92830443382263
+Iteration  128 :  tensor(1.00000e-03 *
+       1.6818)
+Iteration  128  time:  47.073829889297485
+Iteration  129 :  tensor(1.00000e-03 *
+       1.6803)
+Iteration  129  time:  46.54742884635925
+Iteration  130 :  tensor(1.00000e-03 *
+       1.6706)
+Iteration  130  time:  46.39193797111511
+Iteration  131 :  tensor(1.00000e-03 *
+       1.6708)
+Iteration  131  time:  45.08271527290344
+Iteration  132 :  tensor(1.00000e-03 *
+       1.6709)
+Iteration  132  time:  42.94423031806946
+Iteration  133 :  tensor(1.00000e-03 *
+       1.6694)
+Iteration  133  time:  47.18898010253906
+Iteration  134 :  tensor(1.00000e-03 *
+       1.6557)
+Iteration  134  time:  46.89019989967346
+Iteration  135 :  tensor(1.00000e-03 *
+       1.6627)
+Iteration  135  time:  47.25327277183533
+Iteration  136 :  tensor(1.00000e-03 *
+       1.6596)
+Iteration  136  time:  47.04185700416565
+Iteration  137 :  tensor(1.00000e-03 *
+       1.6480)
+Iteration  137  time:  46.234601974487305
+Iteration  138 :  tensor(1.00000e-03 *
+       1.6636)
+Iteration  138  time:  46.56788229942322
+Iteration  139 :  tensor(1.00000e-03 *
+       1.6481)
+Iteration  139  time:  46.632102966308594
+Iteration  140 :  tensor(1.00000e-03 *
+       1.6539)
+Iteration  140  time:  45.911638021469116
+Iteration  141 :  tensor(1.00000e-03 *
+       1.6479)
+Iteration  141  time:  48.447805643081665
+Iteration  142 :  tensor(1.00000e-03 *
+       1.6321)
+Iteration  142  time:  47.21566414833069
+Iteration  143 :  tensor(1.00000e-03 *
+       1.6445)
+Iteration  143  time:  47.058979988098145
+Iteration  144 :  tensor(1.00000e-03 *
+       1.6383)
+Iteration  144  time:  45.86907243728638
+Iteration  145 :  tensor(1.00000e-03 *
+       1.6406)
+Iteration  145  time:  46.90592694282532
+Iteration  146 :  tensor(1.00000e-03 *
+       1.6298)
+Iteration  146  time:  46.69409132003784
+Iteration  147 :  tensor(1.00000e-03 *
+       1.6224)
+Iteration  147  time:  46.91457939147949
+Iteration  148 :  tensor(1.00000e-03 *
+       1.6335)
+Iteration  148  time:  47.04156422615051
+Iteration  149 :  tensor(1.00000e-03 *
+       1.6307)
+Iteration  149  time:  46.675556659698486
+Iteration  150 :  tensor(1.00000e-03 *
+       1.6155)
+Iteration  150  time:  46.05026149749756
+Iteration  151 :  tensor(1.00000e-03 *
+       1.6263)
+Iteration  151  time:  45.90498185157776
+Iteration  152 :  tensor(1.00000e-03 *
+       1.6290)
+Iteration  152  time:  44.277156591415405
+Iteration  153 :  tensor(1.00000e-03 *
+       1.6088)
+Iteration  153  time:  46.51304316520691
+Iteration  154 :  tensor(1.00000e-03 *
+       1.6144)
+Iteration  154  time:  46.58279013633728
+Iteration  155 :  tensor(1.00000e-03 *
+       1.6007)
+Iteration  155  time:  44.095014333724976
+Iteration  156 :  tensor(1.00000e-03 *
+       1.6073)
+Iteration  156  time:  49.56131958961487
+Iteration  157 :  tensor(1.00000e-03 *
+       1.6000)
+Iteration  157  time:  45.47331762313843
+Iteration  158 :  tensor(1.00000e-03 *
+       1.5919)
+Iteration  158  time:  47.799368143081665
+Iteration  159 :  tensor(1.00000e-03 *
+       1.5935)
+Iteration  159  time:  50.886366844177246
+Iteration  160 :  tensor(1.00000e-03 *
+       1.5850)
+Iteration  160  time:  45.40761351585388
+Iteration  161 :  tensor(1.00000e-03 *
+       1.5862)
+Iteration  161  time:  44.29116916656494
+Iteration  162 :  tensor(1.00000e-03 *
+       1.5880)
+Iteration  162  time:  45.67208409309387
+Iteration  163 :  tensor(1.00000e-03 *
+       1.5806)
+Iteration  163  time:  47.237852573394775
+Iteration  164 :  tensor(1.00000e-03 *
+       1.5818)
+Iteration  164  time:  45.95396423339844
+Iteration  165 :  tensor(1.00000e-03 *
+       1.5767)
+Iteration  165  time:  42.953062772750854
+Iteration  166 :  tensor(1.00000e-03 *
+       1.5781)
+Iteration  166  time:  44.43373203277588
+Iteration  167 :  tensor(1.00000e-03 *
+       1.5694)
+Iteration  167  time:  44.83348822593689
+Iteration  168 :  tensor(1.00000e-03 *
+       1.5672)
+Iteration  168  time:  44.332786083221436
+Iteration  169 :  tensor(1.00000e-03 *
+       1.5672)
+Iteration  169  time:  43.741623640060425
+Iteration  170 :  tensor(1.00000e-03 *
+       1.5583)
+Iteration  170  time:  46.44891381263733
+Iteration  171 :  tensor(1.00000e-03 *
+       1.5592)
+Iteration  171  time:  46.38190722465515
+Iteration  172 :  tensor(1.00000e-03 *
+       1.5556)
+Iteration  172  time:  43.76335120201111
+Iteration  173 :  tensor(1.00000e-03 *
+       1.5549)
+Iteration  173  time:  48.590017557144165
+Iteration  174 :  tensor(1.00000e-03 *
+       1.5489)
+Iteration  174  time:  44.86456847190857
+Iteration  175 :  tensor(1.00000e-03 *
+       1.5475)
+Iteration  175  time:  44.807605504989624
+Iteration  176 :  tensor(1.00000e-03 *
+       1.5459)
+Iteration  176  time:  45.58778738975525
+Iteration  177 :  tensor(1.00000e-03 *
+       1.5424)
+Iteration  177  time:  43.41161108016968
+Iteration  178 :  tensor(1.00000e-03 *
+       1.5394)
+Iteration  178  time:  42.148937940597534
+Iteration  179 :  tensor(1.00000e-03 *
+       1.5361)
+Iteration  179  time:  46.48008465766907
+Iteration  180 :  tensor(1.00000e-03 *
+       1.5366)
+Iteration  180  time:  45.19922399520874
+Iteration  181 :  tensor(1.00000e-03 *
+       1.5349)
+Iteration  181  time:  45.059558153152466
+Iteration  182 :  tensor(1.00000e-03 *
+       1.5365)
+Iteration  182  time:  45.943115234375
+Iteration  183 :  tensor(1.00000e-03 *
+       1.5361)
+Iteration  183  time:  44.45521283149719
+Iteration  184 :  tensor(1.00000e-03 *
+       1.5360)
+Iteration  184  time:  45.794201374053955
+Iteration  185 :  tensor(1.00000e-03 *
+       1.5310)
+Iteration  185  time:  46.1187424659729
+Iteration  186 :  tensor(1.00000e-03 *
+       1.5277)
+Iteration  186  time:  45.640469789505005
+Iteration  187 :  tensor(1.00000e-03 *
+       1.5303)
+Iteration  187  time:  44.5276894569397
+Iteration  188 :  tensor(1.00000e-03 *
+       1.5264)
+Iteration  188  time:  43.949586629867554
+Iteration  189 :  tensor(1.00000e-03 *
+       1.5244)
+Iteration  189  time:  45.315367221832275
+Iteration  190 :  tensor(1.00000e-03 *
+       1.5212)
+Iteration  190  time:  45.207897901535034
+Iteration  191 :  tensor(1.00000e-03 *
+       1.5142)
+Iteration  191  time:  45.89150357246399
+Iteration  192 :  tensor(1.00000e-03 *
+       1.5187)
+Iteration  192  time:  48.60785436630249
+Iteration  193 :  tensor(1.00000e-03 *
+       1.5134)
+Iteration  193  time:  47.43183088302612
+Iteration  194 :  tensor(1.00000e-03 *
+       1.5219)
+Iteration  194  time:  45.54516077041626
+Iteration  195 :  tensor(1.00000e-03 *
+       1.5132)
+Iteration  195  time:  44.28267693519592
+Iteration  196 :  tensor(1.00000e-03 *
+       1.5081)
+Iteration  196  time:  45.761245012283325
+Iteration  197 :  tensor(1.00000e-03 *
+       1.5105)
+Iteration  197  time:  44.76093292236328
+Iteration  198 :  tensor(1.00000e-03 *
+       1.5075)
+Iteration  198  time:  47.963183641433716
+Iteration  199 :  tensor(1.00000e-03 *
+       1.5060)
+Iteration  199  time:  46.740503787994385
+Iteration  200 :  tensor(1.00000e-03 *
+       1.5038)
+Iteration  200  time:  44.28339505195618
+Iteration  201 :  tensor(1.00000e-03 *
+       1.4979)
+Iteration  201  time:  46.40588998794556
+Iteration  202 :  tensor(1.00000e-03 *
+       1.5006)
+Iteration  202  time:  45.10789155960083
+Iteration  203 :  tensor(1.00000e-03 *
+       1.5031)
+Iteration  203  time:  43.70087766647339
+Iteration  204 :  tensor(1.00000e-03 *
+       1.5005)
+Iteration  204  time:  46.833261489868164
+Iteration  205 :  tensor(1.00000e-03 *
+       1.4958)
+Iteration  205  time:  45.81383752822876
+Iteration  206 :  tensor(1.00000e-03 *
+       1.4934)
+Iteration  206  time:  46.8900945186615
+Iteration  207 :  tensor(1.00000e-03 *
+       1.4990)
+Iteration  207  time:  44.43831443786621
+Iteration  208 :  tensor(1.00000e-03 *
+       1.5032)
+Iteration  208  time:  44.4803032875061
+Iteration  209 :  tensor(1.00000e-03 *
+       1.4854)
+Iteration  209  time:  45.45034384727478
+Iteration  210 :  tensor(1.00000e-03 *
+       1.4891)
+Iteration  210  time:  46.15311241149902
+Iteration  211 :  tensor(1.00000e-03 *
+       1.4835)
+Iteration  211  time:  43.95480799674988
+Iteration  212 :  tensor(1.00000e-03 *
+       1.4916)
+Iteration  212  time:  47.06356930732727
+Iteration  213 :  tensor(1.00000e-03 *
+       1.4796)
+Iteration  213  time:  47.40928864479065
+Iteration  214 :  tensor(1.00000e-03 *
+       1.4771)
+Iteration  214  time:  43.33512806892395
+Iteration  215 :  tensor(1.00000e-03 *
+       1.4770)
+Iteration  215  time:  46.39576864242554
+Iteration  216 :  tensor(1.00000e-03 *
+       1.4807)
+Iteration  216  time:  47.91648745536804
+Iteration  217 :  tensor(1.00000e-03 *
+       1.4838)
+Iteration  217  time:  46.465720653533936
+Iteration  218 :  tensor(1.00000e-03 *
+       1.4758)
+Iteration  218  time:  43.384562969207764
+Iteration  219 :  tensor(1.00000e-03 *
+       1.4838)
+Iteration  219  time:  45.483055114746094
+Iteration  220 :  tensor(1.00000e-03 *
+       1.4787)
+Iteration  220  time:  46.56202220916748
+Iteration  221 :  tensor(1.00000e-03 *
+       1.4823)
+Iteration  221  time:  46.93113350868225
+Iteration  222 :  tensor(1.00000e-03 *
+       1.4669)
+Iteration  222  time:  44.53008723258972
+Iteration  223 :  tensor(1.00000e-03 *
+       1.4703)
+Iteration  223  time:  43.39241003990173
+Iteration  224 :  tensor(1.00000e-03 *
+       1.4725)
+Iteration  224  time:  46.49185562133789
+Iteration  225 :  tensor(1.00000e-03 *
+       1.4692)
+Iteration  225  time:  46.930166721343994
+Iteration  226 :  tensor(1.00000e-03 *
+       1.4644)
+Iteration  226  time:  45.937329053878784
+Iteration  227 :  tensor(1.00000e-03 *
+       1.4619)
+Iteration  227  time:  44.11151194572449
+Iteration  228 :  tensor(1.00000e-03 *
+       1.4647)
+Iteration  228  time:  44.20134973526001
+Iteration  229 :  tensor(1.00000e-03 *
+       1.4577)
+Iteration  229  time:  42.94689607620239
+Iteration  230 :  tensor(1.00000e-03 *
+       1.4552)
+Iteration  230  time:  44.124253034591675
+Iteration  231 :  tensor(1.00000e-03 *
+       1.4506)
+Iteration  231  time:  46.05608367919922
+Iteration  232 :  tensor(1.00000e-03 *
+       1.4649)
+Iteration  232  time:  46.69690442085266
+Iteration  233 :  tensor(1.00000e-03 *
+       1.4649)
+Iteration  233  time:  46.472814321517944
+Iteration  234 :  tensor(1.00000e-03 *
+       1.4568)
+Iteration  234  time:  44.54824709892273
+Iteration  235 :  tensor(1.00000e-03 *
+       1.4592)
+Iteration  235  time:  45.60225176811218
+Iteration  236 :  tensor(1.00000e-03 *
+       1.4475)
+Iteration  236  time:  45.984922647476196
+Iteration  237 :  tensor(1.00000e-03 *
+       1.4532)
+Iteration  237  time:  47.48313093185425
+Iteration  238 :  tensor(1.00000e-03 *
+       1.4444)
+Iteration  238  time:  44.70719003677368
+Iteration  239 :  tensor(1.00000e-03 *
+       1.4455)
+Iteration  239  time:  47.722362995147705
+Iteration  240 :  tensor(1.00000e-03 *
+       1.4472)
+Iteration  240  time:  44.367756605148315
+Iteration  241 :  tensor(1.00000e-03 *
+       1.4432)
+Iteration  241  time:  44.91819763183594
+Iteration  242 :  tensor(1.00000e-03 *
+       1.4404)
+Iteration  242  time:  45.42446684837341
+Iteration  243 :  tensor(1.00000e-03 *
+       1.4407)
+Iteration  243  time:  44.23941397666931
+Iteration  244 :  tensor(1.00000e-03 *
+       1.4383)
+Iteration  244  time:  44.22407102584839
+Iteration  245 :  tensor(1.00000e-03 *
+       1.4429)
+Iteration  245  time:  45.000064849853516
+Iteration  246 :  tensor(1.00000e-03 *
+       1.4326)
+Iteration  246  time:  45.36082434654236
+Iteration  247 :  tensor(1.00000e-03 *
+       1.4376)
+Iteration  247  time:  43.85773944854736
+Iteration  248 :  tensor(1.00000e-03 *
+       1.4292)
+Iteration  248  time:  43.323880672454834
+Iteration  249 :  tensor(1.00000e-03 *
+       1.4363)
+Iteration  249  time:  46.19653058052063
+Iteration  250 :  tensor(1.00000e-03 *
+       1.4291)
+Iteration  250  time:  44.429871797561646
+Iteration  251 :  tensor(1.00000e-03 *
+       1.4317)
+Iteration  251  time:  47.41136598587036
+Iteration  252 :  tensor(1.00000e-03 *
+       1.4268)
+Iteration  252  time:  44.58425712585449
+Iteration  253 :  tensor(1.00000e-03 *
+       1.4239)
+Iteration  253  time:  45.502989053726196
+Iteration  254 :  tensor(1.00000e-03 *
+       1.4240)
+Iteration  254  time:  46.10327672958374
+Iteration  255 :  tensor(1.00000e-03 *
+       1.4226)
+Iteration  255  time:  42.483683586120605
+Iteration  256 :  tensor(1.00000e-03 *
+       1.4237)
+Iteration  256  time:  44.75315499305725
+Iteration  257 :  tensor(1.00000e-03 *
+       1.4186)
+Iteration  257  time:  45.37299728393555
+Iteration  258 :  tensor(1.00000e-03 *
+       1.4227)
+Iteration  258  time:  46.51967906951904
+Iteration  259 :  tensor(1.00000e-03 *
+       1.4146)
+Iteration  259  time:  44.887821435928345
+Iteration  260 :  tensor(1.00000e-03 *
+       1.4187)
+Iteration  260  time:  46.73599123954773
+Iteration  261 :  tensor(1.00000e-03 *
+       1.4167)
+Iteration  261  time:  46.117539167404175
+Iteration  262 :  tensor(1.00000e-03 *
+       1.4336)
+Iteration  262  time:  47.65414547920227
+Iteration  263 :  tensor(1.00000e-03 *
+       1.4384)
+Iteration  263  time:  44.4469850063324
+Iteration  264 :  tensor(1.00000e-03 *
+       1.4433)
+Iteration  264  time:  46.82944679260254
+Iteration  265 :  tensor(1.00000e-03 *
+       1.4320)
+Iteration  265  time:  46.052977085113525
+Iteration  266 :  tensor(1.00000e-03 *
+       1.4226)
+Iteration  266  time:  44.46204495429993
+Iteration  267 :  tensor(1.00000e-03 *
+       1.4290)
+Iteration  267  time:  47.13880014419556
+Iteration  268 :  tensor(1.00000e-03 *
+       1.4256)
+Iteration  268  time:  49.44175601005554
+Iteration  269 :  tensor(1.00000e-03 *
+       1.4162)
+Iteration  269  time:  45.563053369522095
+Iteration  270 :  tensor(1.00000e-03 *
+       1.4103)
+Iteration  270  time:  42.5468213558197
+Iteration  271 :  tensor(1.00000e-03 *
+       1.4131)
+Iteration  271  time:  43.61110186576843
+Iteration  272 :  tensor(1.00000e-03 *
+       1.4108)
+Iteration  272  time:  45.070719480514526
+Iteration  273 :  tensor(1.00000e-03 *
+       1.4120)
+Iteration  273  time:  45.81409692764282
+Iteration  274 :  tensor(1.00000e-03 *
+       1.4043)
+Iteration  274  time:  44.99118781089783
+Iteration  275 :  tensor(1.00000e-03 *
+       1.3999)
+Iteration  275  time:  45.95915722846985
+Iteration  276 :  tensor(1.00000e-03 *
+       1.4034)
+Iteration  276  time:  46.133726596832275
+Iteration  277 :  tensor(1.00000e-03 *
+       1.3991)
+Iteration  277  time:  44.870949268341064
+Iteration  278 :  tensor(1.00000e-03 *
+       1.3977)
+Iteration  278  time:  49.106847047805786
+Iteration  279 :  tensor(1.00000e-03 *
+       1.3996)
+Iteration  279  time:  46.12498188018799
+Iteration  280 :  tensor(1.00000e-03 *
+       1.3950)
+Iteration  280  time:  45.56972074508667
+Iteration  281 :  tensor(1.00000e-03 *
+       1.3945)
+Iteration  281  time:  47.165287494659424
+Iteration  282 :  tensor(1.00000e-03 *
+       1.3999)
+Iteration  282  time:  45.18770885467529
+Iteration  283 :  tensor(1.00000e-03 *
+       1.3903)
+Iteration  283  time:  45.330772161483765
+Iteration  284 :  tensor(1.00000e-03 *
+       1.3955)
+Iteration  284  time:  45.30539631843567
+Iteration  285 :  tensor(1.00000e-03 *
+       1.3886)
+Iteration  285  time:  47.29511332511902
+Iteration  286 :  tensor(1.00000e-03 *
+       1.3901)
+Iteration  286  time:  46.01338195800781
+Iteration  287 :  tensor(1.00000e-03 *
+       1.3900)
+Iteration  287  time:  45.89939022064209
+Iteration  288 :  tensor(1.00000e-03 *
+       1.3899)
+Iteration  288  time:  45.9275963306427
+Iteration  289 :  tensor(1.00000e-03 *
+       1.3865)
+Iteration  289  time:  45.357670545578
+Iteration  290 :  tensor(1.00000e-03 *
+       1.3864)
+Iteration  290  time:  44.67640662193298
+Iteration  291 :  tensor(1.00000e-03 *
+       1.3841)
+Iteration  291  time:  45.49533987045288
+Iteration  292 :  tensor(1.00000e-03 *
+       1.3849)
+Iteration  292  time:  46.1120970249176
+Iteration  293 :  tensor(1.00000e-03 *
+       1.3819)
+Iteration  293  time:  47.73282289505005
+Iteration  294 :  tensor(1.00000e-03 *
+       1.3849)
+Iteration  294  time:  46.201541900634766
+Iteration  295 :  tensor(1.00000e-03 *
+       1.3826)
+Iteration  295  time:  47.70030379295349
+Iteration  296 :  tensor(1.00000e-03 *
+       1.3838)
+Iteration  296  time:  45.15340733528137
+Iteration  297 :  tensor(1.00000e-03 *
+       1.3827)
+Iteration  297  time:  47.897958517074585
+Iteration  298 :  tensor(1.00000e-03 *
+       1.3831)
+Iteration  298  time:  45.262747287750244
+Iteration  299 :  tensor(1.00000e-03 *
+       1.3828)
+Iteration  299  time:  44.98108196258545
+Iteration  300 :  tensor(1.00000e-03 *
+       1.3840)
+Iteration  300  time:  44.827314138412476
+Iteration  301 :  tensor(1.00000e-03 *
+       1.3842)
+Iteration  301  time:  45.06432104110718
+Iteration  302 :  tensor(1.00000e-03 *
+       1.3901)
+Iteration  302  time:  47.71668815612793
+Iteration  303 :  tensor(1.00000e-03 *
+       1.3960)
+Iteration  303  time:  48.568994998931885
+Iteration  304 :  tensor(1.00000e-03 *
+       1.4079)
+Iteration  304  time:  49.406261682510376
+Iteration  305 :  tensor(1.00000e-03 *
+       1.3996)
+Iteration  305  time:  46.07014179229736
+Iteration  306 :  tensor(1.00000e-03 *
+       1.3833)
+Iteration  306  time:  45.16305232048035
+Iteration  307 :  tensor(1.00000e-03 *
+       1.3718)
+Iteration  307  time:  45.081910610198975
+Iteration  308 :  tensor(1.00000e-03 *
+       1.3852)
+Iteration  308  time:  46.24846959114075
+Iteration  309 :  tensor(1.00000e-03 *
+       1.3857)
+Iteration  309  time:  46.24136686325073
+Iteration  310 :  tensor(1.00000e-03 *
+       1.3692)
+Iteration  310  time:  44.18320107460022
+Iteration  311 :  tensor(1.00000e-03 *
+       1.3639)
+Iteration  311  time:  45.86509346961975
+Iteration  312 :  tensor(1.00000e-03 *
+       1.3781)
+Iteration  312  time:  46.42805051803589
+Iteration  313 :  tensor(1.00000e-03 *
+       1.3646)
+Iteration  313  time:  46.17136263847351
+Iteration  314 :  tensor(1.00000e-03 *
+       1.3648)
+Iteration  314  time:  46.06420540809631
+Iteration  315 :  tensor(1.00000e-03 *
+       1.3669)
+Iteration  315  time:  45.326050996780396
+Iteration  316 :  tensor(1.00000e-03 *
+       1.3711)
+Iteration  316  time:  47.17021727561951
+Iteration  317 :  tensor(1.00000e-03 *
+       1.3620)
+Iteration  317  time:  45.91337442398071
+Iteration  318 :  tensor(1.00000e-03 *
+       1.3674)
+Iteration  318  time:  44.97690391540527
+Iteration  319 :  tensor(1.00000e-03 *
+       1.3689)
+Iteration  319  time:  45.22537541389465
+Iteration  320 :  tensor(1.00000e-03 *
+       1.3744)
+Iteration  320  time:  45.49852728843689
+Iteration  321 :  tensor(1.00000e-03 *
+       1.3683)
+Iteration  321  time:  42.86722779273987
+Iteration  322 :  tensor(1.00000e-03 *
+       1.3722)
+Iteration  322  time:  45.36486840248108
+Iteration  323 :  tensor(1.00000e-03 *
+       1.3643)
+Iteration  323  time:  45.59164786338806
+Iteration  324 :  tensor(1.00000e-03 *
+       1.3531)
+Iteration  324  time:  46.11360287666321
+Iteration  325 :  tensor(1.00000e-03 *
+       1.3525)
+Iteration  325  time:  47.15255165100098
+Iteration  326 :  tensor(1.00000e-03 *
+       1.3545)
+Iteration  326  time:  45.74551320075989
+Iteration  327 :  tensor(1.00000e-03 *
+       1.3578)
+Iteration  327  time:  43.9060115814209
+Iteration  328 :  tensor(1.00000e-03 *
+       1.3700)
+Iteration  328  time:  44.9554226398468
+Iteration  329 :  tensor(1.00000e-03 *
+       1.3774)
+Iteration  329  time:  43.43853974342346
+Iteration  330 :  tensor(1.00000e-03 *
+       1.3636)
+Iteration  330  time:  46.76906943321228
+Iteration  331 :  tensor(1.00000e-03 *
+       1.3448)
+Iteration  331  time:  45.441521406173706
+Iteration  332 :  tensor(1.00000e-03 *
+       1.3403)
+Iteration  332  time:  44.930392265319824
+Iteration  333 :  tensor(1.00000e-03 *
+       1.3467)
+Iteration  333  time:  47.49142122268677
+Iteration  334 :  tensor(1.00000e-03 *
+       1.3432)
+Iteration  334  time:  45.4134681224823
+Iteration  335 :  tensor(1.00000e-03 *
+       1.3366)
+Iteration  335  time:  45.76748251914978
+Iteration  336 :  tensor(1.00000e-03 *
+       1.3339)
+Iteration  336  time:  46.335442781448364
+Iteration  337 :  tensor(1.00000e-03 *
+       1.3406)
+Iteration  337  time:  45.76549458503723
+Iteration  338 :  tensor(1.00000e-03 *
+       1.3445)
+Iteration  338  time:  46.165847063064575
+Iteration  339 :  tensor(1.00000e-03 *
+       1.3404)
+Iteration  339  time:  47.11537551879883
+Iteration  340 :  tensor(1.00000e-03 *
+       1.3330)
+Iteration  340  time:  47.31011080741882
+Iteration  341 :  tensor(1.00000e-03 *
+       1.3363)
+Iteration  341  time:  46.48888421058655
+Iteration  342 :  tensor(1.00000e-03 *
+       1.3440)
+Iteration  342  time:  45.84083580970764
+Iteration  343 :  tensor(1.00000e-03 *
+       1.3565)
+Iteration  343  time:  45.571919679641724
+Iteration  344 :  tensor(1.00000e-03 *
+       1.3467)
+Iteration  344  time:  49.46484613418579
+Iteration  345 :  tensor(1.00000e-03 *
+       1.3285)
+Iteration  345  time:  47.0640709400177
+Iteration  346 :  tensor(1.00000e-03 *
+       1.3357)
+Iteration  346  time:  46.91412925720215
+Iteration  347 :  tensor(1.00000e-03 *
+       1.3446)
+Iteration  347  time:  46.96205401420593
+Iteration  348 :  tensor(1.00000e-03 *
+       1.3361)
+Iteration  348  time:  44.311042070388794
+Iteration  349 :  tensor(1.00000e-03 *
+       1.3268)
+Iteration  349  time:  43.4802668094635
+Iteration  350 :  tensor(1.00000e-03 *
+       1.3270)
+Iteration  350  time:  44.07835245132446
+Iteration  351 :  tensor(1.00000e-03 *
+       1.3287)
+Iteration  351  time:  45.18311381340027
+Iteration  352 :  tensor(1.00000e-03 *
+       1.3288)
+Iteration  352  time:  45.872623920440674
+Iteration  353 :  tensor(1.00000e-03 *
+       1.3212)
+Iteration  353  time:  47.51640820503235
+Iteration  354 :  tensor(1.00000e-03 *
+       1.3204)
+Iteration  354  time:  47.28701066970825
+Iteration  355 :  tensor(1.00000e-03 *
+       1.3212)
+Iteration  355  time:  47.39980602264404
+Iteration  356 :  tensor(1.00000e-03 *
+       1.3222)
+Iteration  356  time:  45.61303782463074
+Iteration  357 :  tensor(1.00000e-03 *
+       1.3209)
+Iteration  357  time:  45.820990562438965
+Iteration  358 :  tensor(1.00000e-03 *
+       1.3188)
+Iteration  358  time:  46.06244516372681
+Iteration  359 :  tensor(1.00000e-03 *
+       1.3198)
+Iteration  359  time:  44.375367403030396
+Iteration  360 :  tensor(1.00000e-03 *
+       1.3150)
+Iteration  360  time:  44.377397537231445
+Iteration  361 :  tensor(1.00000e-03 *
+       1.3141)
+Iteration  361  time:  44.523767948150635
+Iteration  362 :  tensor(1.00000e-03 *
+       1.3114)
+Iteration  362  time:  47.429365396499634
+Iteration  363 :  tensor(1.00000e-03 *
+       1.3125)
+Iteration  363  time:  46.04650616645813
+Iteration  364 :  tensor(1.00000e-03 *
+       1.3093)
+Iteration  364  time:  47.91291403770447
+Iteration  365 :  tensor(1.00000e-03 *
+       1.3083)
+Iteration  365  time:  44.870699405670166
+Iteration  366 :  tensor(1.00000e-03 *
+       1.3092)
+Iteration  366  time:  44.41633892059326
+Iteration  367 :  tensor(1.00000e-03 *
+       1.3078)
+Iteration  367  time:  43.93063139915466
+Iteration  368 :  tensor(1.00000e-03 *
+       1.3106)
+Iteration  368  time:  45.62267589569092
+Iteration  369 :  tensor(1.00000e-03 *
+       1.3258)
+Iteration  369  time:  45.10509419441223
+Iteration  370 :  tensor(1.00000e-03 *
+       1.3363)
+Iteration  370  time:  45.19316244125366
+Iteration  371 :  tensor(1.00000e-03 *
+       1.3724)
+Iteration  371  time:  45.54083776473999
+Iteration  372 :  tensor(1.00000e-03 *
+       1.3457)
+Iteration  372  time:  45.133312463760376
+Iteration  373 :  tensor(1.00000e-03 *
+       1.3116)
+Iteration  373  time:  45.60153841972351
+Iteration  374 :  tensor(1.00000e-03 *
+       1.3132)
+Iteration  374  time:  42.579933166503906
+Iteration  375 :  tensor(1.00000e-03 *
+       1.3350)
+Iteration  375  time:  44.54862642288208
+Iteration  376 :  tensor(1.00000e-03 *
+       1.3266)
+Iteration  376  time:  43.85997271537781
+Iteration  377 :  tensor(1.00000e-03 *
+       1.3037)
+Iteration  377  time:  43.949328660964966
+Iteration  378 :  tensor(1.00000e-03 *
+       1.3106)
+Iteration  378  time:  45.23487138748169
+Iteration  379 :  tensor(1.00000e-03 *
+       1.3204)
+Iteration  379  time:  44.82923221588135
+Iteration  380 :  tensor(1.00000e-03 *
+       1.2947)
+Iteration  380  time:  46.95732641220093
+Iteration  381 :  tensor(1.00000e-03 *
+       1.3064)
+Iteration  381  time:  47.36523485183716
+Iteration  382 :  tensor(1.00000e-03 *
+       1.3124)
+Iteration  382  time:  44.04377460479736
+Iteration  383 :  tensor(1.00000e-03 *
+       1.2952)
+Iteration  383  time:  45.6249098777771
+Iteration  384 :  tensor(1.00000e-03 *
+       1.3001)
+Iteration  384  time:  45.0010039806366
+Iteration  385 :  tensor(1.00000e-03 *
+       1.3026)
+Iteration  385  time:  46.70210337638855
+Iteration  386 :  tensor(1.00000e-03 *
+       1.2869)
+Iteration  386  time:  47.987224102020264
+Iteration  387 :  tensor(1.00000e-03 *
+       1.2951)
+Iteration  387  time:  45.896450996398926
+Iteration  388 :  tensor(1.00000e-03 *
+       1.2902)
+Iteration  388  time:  47.77332305908203
+Iteration  389 :  tensor(1.00000e-03 *
+       1.2845)
+Iteration  389  time:  44.56949067115784
+Iteration  390 :  tensor(1.00000e-03 *
+       1.2850)
+Iteration  390  time:  45.75844120979309
+Iteration  391 :  tensor(1.00000e-03 *
+       1.2797)
+Iteration  391  time:  45.472758769989014
+Iteration  392 :  tensor(1.00000e-03 *
+       1.2824)
+Iteration  392  time:  44.86097526550293
+Iteration  393 :  tensor(1.00000e-03 *
+       1.2750)
+Iteration  393  time:  44.71232748031616
+Iteration  394 :  tensor(1.00000e-03 *
+       1.2770)
+Iteration  394  time:  46.08423638343811
+Iteration  395 :  tensor(1.00000e-03 *
+       1.2741)
+Iteration  395  time:  45.28187417984009
+Iteration  396 :  tensor(1.00000e-03 *
+       1.2725)
+Iteration  396  time:  45.85544967651367
+Iteration  397 :  tensor(1.00000e-03 *
+       1.2721)
+Iteration  397  time:  43.24528384208679
+Iteration  398 :  tensor(1.00000e-03 *
+       1.2701)
+Iteration  398  time:  45.70353126525879
+Iteration  399 :  tensor(1.00000e-03 *
+       1.2670)
+Iteration  399  time:  45.941948890686035
+Iteration  400 :  tensor(1.00000e-03 *
+       1.2677)
+Iteration  400  time:  46.51763963699341
+Iteration  401 :  tensor(1.00000e-03 *
+       1.2668)
+Iteration  401  time:  45.26438355445862
+Iteration  402 :  tensor(1.00000e-03 *
+       1.2657)
+Iteration  402  time:  46.915459871292114
+Iteration  403 :  tensor(1.00000e-03 *
+       1.2630)
+Iteration  403  time:  44.89158654212952
+Iteration  404 :  tensor(1.00000e-03 *
+       1.2645)
+Iteration  404  time:  44.58447766304016
+Iteration  405 :  tensor(1.00000e-03 *
+       1.2650)
+Iteration  405  time:  45.580432653427124
+Iteration  406 :  tensor(1.00000e-03 *
+       1.2621)
+Iteration  406  time:  44.29032874107361
+Iteration  407 :  tensor(1.00000e-03 *
+       1.2623)
+Iteration  407  time:  44.802058935165405
+Iteration  408 :  tensor(1.00000e-03 *
+       1.2610)
+Iteration  408  time:  47.30445837974548
+Iteration  409 :  tensor(1.00000e-03 *
+       1.2620)
+Iteration  409  time:  46.14707326889038
+Iteration  410 :  tensor(1.00000e-03 *
+       1.2598)
+Iteration  410  time:  45.55158472061157
+Iteration  411 :  tensor(1.00000e-03 *
+       1.2608)
+Iteration  411  time:  45.50823473930359
+Iteration  412 :  tensor(1.00000e-03 *
+       1.2611)
+Iteration  412  time:  45.86387348175049
+Iteration  413 :  tensor(1.00000e-03 *
+       1.2682)
+Iteration  413  time:  44.95488119125366
+Iteration  414 :  tensor(1.00000e-03 *
+       1.2791)
+Iteration  414  time:  46.925626039505005
+Iteration  415 :  tensor(1.00000e-03 *
+       1.2836)
+Iteration  415  time:  46.27616786956787
+Iteration  416 :  tensor(1.00000e-03 *
+       1.2831)
+Iteration  416  time:  43.91675567626953
+Iteration  417 :  tensor(1.00000e-03 *
+       1.2673)
+Iteration  417  time:  46.6737642288208
+Iteration  418 :  tensor(1.00000e-03 *
+       1.2678)
+Iteration  418  time:  46.57441234588623
+Iteration  419 :  tensor(1.00000e-03 *
+       1.2638)
+Iteration  419  time:  47.52696251869202
+Iteration  420 :  tensor(1.00000e-03 *
+       1.2650)
+Iteration  420  time:  47.45561909675598
+Iteration  421 :  tensor(1.00000e-03 *
+       1.2668)
+Iteration  421  time:  47.88191342353821
+Iteration  422 :  tensor(1.00000e-03 *
+       1.2646)
+Iteration  422  time:  47.33041977882385
+Iteration  423 :  tensor(1.00000e-03 *
+       1.2531)
+Iteration  423  time:  47.465492963790894
+Iteration  424 :  tensor(1.00000e-03 *
+       1.2577)
+Iteration  424  time:  42.98585748672485
+Iteration  425 :  tensor(1.00000e-03 *
+       1.2490)
+Iteration  425  time:  45.98160004615784
+Iteration  426 :  tensor(1.00000e-03 *
+       1.2505)
+Iteration  426  time:  45.820475578308105
+Iteration  427 :  tensor(1.00000e-03 *
+       1.2533)
+Iteration  427  time:  46.62103724479675
+Iteration  428 :  tensor(1.00000e-03 *
+       1.2436)
+Iteration  428  time:  45.29402947425842
+Iteration  429 :  tensor(1.00000e-03 *
+       1.2427)
+Iteration  429  time:  45.353811740875244
+Iteration  430 :  tensor(1.00000e-03 *
+       1.2441)
+Iteration  430  time:  43.74753212928772
+Iteration  431 :  tensor(1.00000e-03 *
+       1.2406)
+Iteration  431  time:  45.247913122177124
+Iteration  432 :  tensor(1.00000e-03 *
+       1.2392)
+Iteration  432  time:  47.69354963302612
+Iteration  433 :  tensor(1.00000e-03 *
+       1.2377)
+Iteration  433  time:  44.3931348323822
+Iteration  434 :  tensor(1.00000e-03 *
+       1.2362)
+Iteration  434  time:  44.37666940689087
+Iteration  435 :  tensor(1.00000e-03 *
+       1.2337)
+Iteration  435  time:  45.24768781661987
+Iteration  436 :  tensor(1.00000e-03 *
+       1.2355)
+Iteration  436  time:  47.22550868988037
+Iteration  437 :  tensor(1.00000e-03 *
+       1.2377)
+Iteration  437  time:  45.994653940200806
+Iteration  438 :  tensor(1.00000e-03 *
+       1.2369)
+Iteration  438  time:  46.80252504348755
+Iteration  439 :  tensor(1.00000e-03 *
+       1.2338)
+Iteration  439  time:  45.47512245178223
+Iteration  440 :  tensor(1.00000e-03 *
+       1.2318)
+Iteration  440  time:  47.691941261291504
+Iteration  441 :  tensor(1.00000e-03 *
+       1.2340)
+Iteration  441  time:  47.70583772659302
+Iteration  442 :  tensor(1.00000e-03 *
+       1.2313)
+Iteration  442  time:  46.81256365776062
+Iteration  443 :  tensor(1.00000e-03 *
+       1.2340)
+Iteration  443  time:  45.394983530044556
+Iteration  444 :  tensor(1.00000e-03 *
+       1.2331)
+Iteration  444  time:  45.083258867263794
+Iteration  445 :  tensor(1.00000e-03 *
+       1.2339)
+Iteration  445  time:  45.64641451835632
+Iteration  446 :  tensor(1.00000e-03 *
+       1.2332)
+Iteration  446  time:  45.58164358139038
+Iteration  447 :  tensor(1.00000e-03 *
+       1.2269)
+Iteration  447  time:  45.776602268218994
+Iteration  448 :  tensor(1.00000e-03 *
+       1.2208)
+Iteration  448  time:  45.62092065811157
+Iteration  449 :  tensor(1.00000e-03 *
+       1.2189)
+Iteration  449  time:  44.04763102531433
+Iteration  450 :  tensor(1.00000e-03 *
+       1.2163)
+Iteration  450  time:  45.84726119041443
+Iteration  451 :  tensor(1.00000e-03 *
+       1.2168)
+Iteration  451  time:  46.031994104385376
+Iteration  452 :  tensor(1.00000e-03 *
+       1.2162)
+Iteration  452  time:  47.016048431396484
+Iteration  453 :  tensor(1.00000e-03 *
+       1.2154)
+Iteration  453  time:  43.97156357765198
+Iteration  454 :  tensor(1.00000e-03 *
+       1.2188)
+Iteration  454  time:  44.82399559020996
+Iteration  455 :  tensor(1.00000e-03 *
+       1.2252)
+Iteration  455  time:  44.45719504356384
+Iteration  456 :  tensor(1.00000e-03 *
+       1.2406)
+Iteration  456  time:  44.72413349151611
+Iteration  457 :  tensor(1.00000e-03 *
+       1.2726)
+Iteration  457  time:  43.24880647659302
+Iteration  458 :  tensor(1.00000e-03 *
+       1.2825)
+Iteration  458  time:  46.93571186065674
+Iteration  459 :  tensor(1.00000e-03 *
+       1.2512)
+Iteration  459  time:  48.773937702178955
+Iteration  460 :  tensor(1.00000e-03 *
+       1.2250)
+Iteration  460  time:  45.86295199394226
+Iteration  461 :  tensor(1.00000e-03 *
+       1.2456)
+Iteration  461  time:  45.754388093948364
+Iteration  462 :  tensor(1.00000e-03 *
+       1.2407)
+Iteration  462  time:  45.73869061470032
+Iteration  463 :  tensor(1.00000e-03 *
+       1.2231)
+Iteration  463  time:  47.488081216812134
+Iteration  464 :  tensor(1.00000e-03 *
+       1.2361)
+Iteration  464  time:  47.01168751716614
+Iteration  465 :  tensor(1.00000e-03 *
+       1.2253)
+Iteration  465  time:  45.47523903846741
+Iteration  466 :  tensor(1.00000e-03 *
+       1.2216)
+Iteration  466  time:  45.46980404853821
+Iteration  467 :  tensor(1.00000e-03 *
+       1.2231)
+Iteration  467  time:  44.94395422935486
+Iteration  468 :  tensor(1.00000e-03 *
+       1.2173)
+Iteration  468  time:  44.95508432388306
+Iteration  469 :  tensor(1.00000e-03 *
+       1.2200)
+Iteration  469  time:  45.760658264160156
+Iteration  470 :  tensor(1.00000e-03 *
+       1.2134)
+Iteration  470  time:  44.716848850250244
+Iteration  471 :  tensor(1.00000e-03 *
+       1.2147)
+Iteration  471  time:  46.13816714286804
+Iteration  472 :  tensor(1.00000e-03 *
+       1.2100)
+Iteration  472  time:  46.97897720336914
+Iteration  473 :  tensor(1.00000e-03 *
+       1.2077)
+Iteration  473  time:  43.35652208328247
+Iteration  474 :  tensor(1.00000e-03 *
+       1.2077)
+Iteration  474  time:  43.79617881774902
+Iteration  475 :  tensor(1.00000e-03 *
+       1.2021)
+Iteration  475  time:  44.578460931777954
+Iteration  476 :  tensor(1.00000e-03 *
+       1.2032)
+Iteration  476  time:  44.74967360496521
+Iteration  477 :  tensor(1.00000e-03 *
+       1.2000)
+Iteration  477  time:  43.66762852668762
+Iteration  478 :  tensor(1.00000e-03 *
+       1.2024)
+Iteration  478  time:  45.10641169548035
+Iteration  479 :  tensor(1.00000e-03 *
+       1.1955)
+Iteration  479  time:  42.31244111061096
+Iteration  480 :  tensor(1.00000e-03 *
+       1.1976)
+Iteration  480  time:  45.840755224227905
+Iteration  481 :  tensor(1.00000e-03 *
+       1.1977)
+Iteration  481  time:  45.19736361503601
+Iteration  482 :  tensor(1.00000e-03 *
+       1.1981)
+Iteration  482  time:  45.82604455947876
+Iteration  483 :  tensor(1.00000e-03 *
+       1.2014)
+Iteration  483  time:  44.95914435386658
+Iteration  484 :  tensor(1.00000e-03 *
+       1.1926)
+Iteration  484  time:  46.269752979278564
+Iteration  485 :  tensor(1.00000e-03 *
+       1.1951)
+Iteration  485  time:  45.69656538963318
+Iteration  486 :  tensor(1.00000e-03 *
+       1.1895)
+Iteration  486  time:  45.68014168739319
+Iteration  487 :  tensor(1.00000e-03 *
+       1.1938)
+Iteration  487  time:  44.28655505180359
+Iteration  488 :  tensor(1.00000e-03 *
+       1.1854)
+Iteration  488  time:  43.99096989631653
+Iteration  489 :  tensor(1.00000e-03 *
+       1.1895)
+Iteration  489  time:  44.22374153137207
+Iteration  490 :  tensor(1.00000e-03 *
+       1.1845)
+Iteration  490  time:  43.428051471710205
+Iteration  491 :  tensor(1.00000e-03 *
+       1.1852)
+Iteration  491  time:  47.0809383392334
+Iteration  492 :  tensor(1.00000e-03 *
+       1.1844)
+Iteration  492  time:  46.97578001022339
+Iteration  493 :  tensor(1.00000e-03 *
+       1.1844)
+Iteration  493  time:  46.300766706466675
+Iteration  494 :  tensor(1.00000e-03 *
+       1.1839)
+Iteration  494  time:  46.32751250267029
+Iteration  495 :  tensor(1.00000e-03 *
+       1.1836)
+Iteration  495  time:  45.1007182598114
+Iteration  496 :  tensor(1.00000e-03 *
+       1.1798)
+Iteration  496  time:  46.64058995246887
+Iteration  497 :  tensor(1.00000e-03 *
+       1.1816)
+Iteration  497  time:  45.960793018341064
+Iteration  498 :  tensor(1.00000e-03 *
+       1.1808)
+Iteration  498  time:  46.106374979019165
+Iteration  499 :  tensor(1.00000e-03 *
+       1.1784)
+Iteration  499  time:  44.06061506271362
+Iteration  500 :  tensor(1.00000e-03 *
+       1.1800)
+Iteration  500  time:  46.091153383255005
+Iteration  501 :  tensor(1.00000e-03 *
+       1.1776)
+Iteration  501  time:  45.934531688690186
+Iteration  502 :  tensor(1.00000e-03 *
+       1.1792)
+Iteration  502  time:  43.511833906173706
+Iteration  503 :  tensor(1.00000e-03 *
+       1.1768)
+Iteration  503  time:  46.88911294937134
+Iteration  504 :  tensor(1.00000e-03 *
+       1.1779)
+Iteration  504  time:  46.14610576629639
+Iteration  505 :  tensor(1.00000e-03 *
+       1.1745)
+Iteration  505  time:  42.71450614929199
+Iteration  506 :  tensor(1.00000e-03 *
+       1.1738)
+Iteration  506  time:  45.754483699798584
+Iteration  507 :  tensor(1.00000e-03 *
+       1.1686)
+Iteration  507  time:  44.488808155059814
+Iteration  508 :  tensor(1.00000e-03 *
+       1.1673)
+Iteration  508  time:  46.746666431427
+Iteration  509 :  tensor(1.00000e-03 *
+       1.1648)
+Iteration  509  time:  45.901456117630005
+Iteration  510 :  tensor(1.00000e-03 *
+       1.1660)
+Iteration  510  time:  45.424577474594116
+Iteration  511 :  tensor(1.00000e-03 *
+       1.1698)
+Iteration  511  time:  44.471150398254395
+Iteration  512 :  tensor(1.00000e-03 *
+       1.1690)
+Iteration  512  time:  47.95740842819214
+Iteration  513 :  tensor(1.00000e-03 *
+       1.1682)
+Iteration  513  time:  45.35869765281677
+Iteration  514 :  tensor(1.00000e-03 *
+       1.1656)
+Iteration  514  time:  44.98189449310303
+Iteration  515 :  tensor(1.00000e-03 *
+       1.1643)
+Iteration  515  time:  46.98572540283203
+Iteration  516 :  tensor(1.00000e-03 *
+       1.1644)
+Iteration  516  time:  46.43782353401184
+Iteration  517 :  tensor(1.00000e-03 *
+       1.1681)
+Iteration  517  time:  44.660640239715576
+Iteration  518 :  tensor(1.00000e-03 *
+       1.1608)
+Iteration  518  time:  43.5048930644989
+Iteration  519 :  tensor(1.00000e-03 *
+       1.1639)
+Iteration  519  time:  44.974711894989014
+Iteration  520 :  tensor(1.00000e-03 *
+       1.1638)
+Iteration  520  time:  44.86165237426758
+Iteration  521 :  tensor(1.00000e-03 *
+       1.1587)
+Iteration  521  time:  44.09024238586426
+Iteration  522 :  tensor(1.00000e-03 *
+       1.1596)
+Iteration  522  time:  43.453397274017334
+Iteration  523 :  tensor(1.00000e-03 *
+       1.1568)
+Iteration  523  time:  44.76167345046997
+Iteration  524 :  tensor(1.00000e-03 *
+       1.1561)
+Iteration  524  time:  45.47296357154846
+Iteration  525 :  tensor(1.00000e-03 *
+       1.1583)
+Iteration  525  time:  45.33616662025452
+Iteration  526 :  tensor(1.00000e-03 *
+       1.1565)
+Iteration  526  time:  45.92462158203125
+Iteration  527 :  tensor(1.00000e-03 *
+       1.1619)
+Iteration  527  time:  46.88652062416077
+Iteration  528 :  tensor(1.00000e-03 *
+       1.1576)
+Iteration  528  time:  45.343974351882935
+Iteration  529 :  tensor(1.00000e-03 *
+       1.1563)
+Iteration  529  time:  43.83982062339783
+Iteration  530 :  tensor(1.00000e-03 *
+       1.1573)
+Iteration  530  time:  44.2554714679718
+Iteration  531 :  tensor(1.00000e-03 *
+       1.1559)
+Iteration  531  time:  43.202783823013306
+Iteration  532 :  tensor(1.00000e-03 *
+       1.1569)
+Iteration  532  time:  45.71513509750366
+Iteration  533 :  tensor(1.00000e-03 *
+       1.1548)
+Iteration  533  time:  48.50270104408264
+Iteration  534 :  tensor(1.00000e-03 *
+       1.1519)
+Iteration  534  time:  46.55751299858093
+Iteration  535 :  tensor(1.00000e-03 *
+       1.1507)
+Iteration  535  time:  46.458065032958984
+Iteration  536 :  tensor(1.00000e-03 *
+       1.1506)
+Iteration  536  time:  45.88763070106506
+Iteration  537 :  tensor(1.00000e-03 *
+       1.1502)
+Iteration  537  time:  45.90947699546814
+Iteration  538 :  tensor(1.00000e-03 *
+       1.1536)
+Iteration  538  time:  46.10844683647156
+Iteration  539 :  tensor(1.00000e-03 *
+       1.1508)
+Iteration  539  time:  45.446505308151245
+Iteration  540 :  tensor(1.00000e-03 *
+       1.1560)
+Iteration  540  time:  46.84686040878296
+Iteration  541 :  tensor(1.00000e-03 *
+       1.1554)
+Iteration  541  time:  42.58495593070984
+Iteration  542 :  tensor(1.00000e-03 *
+       1.1552)
+Iteration  542  time:  44.285480260849
+Iteration  543 :  tensor(1.00000e-03 *
+       1.1489)
+Iteration  543  time:  43.61086893081665
+Iteration  544 :  tensor(1.00000e-03 *
+       1.1498)
+Iteration  544  time:  47.78842496871948
+Iteration  545 :  tensor(1.00000e-03 *
+       1.1484)
+Iteration  545  time:  46.52712416648865
+Iteration  546 :  tensor(1.00000e-03 *
+       1.1501)
+Iteration  546  time:  43.84436321258545
+Iteration  547 :  tensor(1.00000e-03 *
+       1.1504)
+Iteration  547  time:  46.22479200363159
+Iteration  548 :  tensor(1.00000e-03 *
+       1.1478)
+Iteration  548  time:  43.81268239021301
+Iteration  549 :  tensor(1.00000e-03 *
+       1.1507)
+Iteration  549  time:  47.14125967025757
+Iteration  550 :  tensor(1.00000e-03 *
+       1.1518)
+Iteration  550  time:  44.993653535842896
+Iteration  551 :  tensor(1.00000e-03 *
+       1.1492)
+Iteration  551  time:  46.81624364852905
+Iteration  552 :  tensor(1.00000e-03 *
+       1.1468)
+Iteration  552  time:  44.22380971908569
+Iteration  553 :  tensor(1.00000e-03 *
+       1.1479)
+Iteration  553  time:  45.71470546722412
+Iteration  554 :  tensor(1.00000e-03 *
+       1.1444)
+Iteration  554  time:  44.86829948425293
+Iteration  555 :  tensor(1.00000e-03 *
+       1.1425)
+Iteration  555  time:  45.158576250076294
+Iteration  556 :  tensor(1.00000e-03 *
+       1.1417)
+Iteration  556  time:  43.80590772628784
+Iteration  557 :  tensor(1.00000e-03 *
+       1.1446)
+Iteration  557  time:  45.29185342788696
+Iteration  558 :  tensor(1.00000e-03 *
+       1.1422)
+Iteration  558  time:  46.45392608642578
+Iteration  559 :  tensor(1.00000e-03 *
+       1.1446)
+Iteration  559  time:  45.88431358337402
+Iteration  560 :  tensor(1.00000e-03 *
+       1.1439)
+Iteration  560  time:  44.19436025619507
+Iteration  561 :  tensor(1.00000e-03 *
+       1.1439)
+Iteration  561  time:  46.0821807384491
+Iteration  562 :  tensor(1.00000e-03 *
+       1.1407)
+Iteration  562  time:  44.655091762542725
+Iteration  563 :  tensor(1.00000e-03 *
+       1.1433)
+Iteration  563  time:  47.97411274909973
+Iteration  564 :  tensor(1.00000e-03 *
+       1.1390)
+Iteration  564  time:  45.02157139778137
+Iteration  565 :  tensor(1.00000e-03 *
+       1.1391)
+Iteration  565  time:  45.148324966430664
+Iteration  566 :  tensor(1.00000e-03 *
+       1.1376)
+Iteration  566  time:  47.61748957633972
+Iteration  567 :  tensor(1.00000e-03 *
+       1.1383)
+Iteration  567  time:  46.847148418426514
+Iteration  568 :  tensor(1.00000e-03 *
+       1.1414)
+Iteration  568  time:  45.015223026275635
+Iteration  569 :  tensor(1.00000e-03 *
+       1.1344)
+Iteration  569  time:  46.62684512138367
+Iteration  570 :  tensor(1.00000e-03 *
+       1.1364)
+Iteration  570  time:  45.53397822380066
+Iteration  571 :  tensor(1.00000e-03 *
+       1.1345)
+Iteration  571  time:  46.262107372283936
+Iteration  572 :  tensor(1.00000e-03 *
+       1.1342)
+Iteration  572  time:  45.116739988327026
+Iteration  573 :  tensor(1.00000e-03 *
+       1.1313)
+Iteration  573  time:  45.01253318786621
+Iteration  574 :  tensor(1.00000e-03 *
+       1.1359)
+Iteration  574  time:  44.507500886917114
+Iteration  575 :  tensor(1.00000e-03 *
+       1.1300)
+Iteration  575  time:  44.9909827709198
+Iteration  576 :  tensor(1.00000e-03 *
+       1.1329)
+Iteration  576  time:  45.036932945251465
+Iteration  577 :  tensor(1.00000e-03 *
+       1.1330)
+Iteration  577  time:  45.97922444343567
+Iteration  578 :  tensor(1.00000e-03 *
+       1.1342)
+Iteration  578  time:  45.124000549316406
+Iteration  579 :  tensor(1.00000e-03 *
+       1.1341)
+Iteration  579  time:  45.356481313705444
+Iteration  580 :  tensor(1.00000e-03 *
+       1.1341)
+Iteration  580  time:  45.00819420814514
+Iteration  581 :  tensor(1.00000e-03 *
+       1.1327)
+Iteration  581  time:  45.464178800582886
+Iteration  582 :  tensor(1.00000e-03 *
+       1.1288)
+Iteration  582  time:  46.58245539665222
+Iteration  583 :  tensor(1.00000e-03 *
+       1.1271)
+Iteration  583  time:  43.55271649360657
+Iteration  584 :  tensor(1.00000e-03 *
+       1.1261)
+Iteration  584  time:  45.28120446205139
+Iteration  585 :  tensor(1.00000e-03 *
+       1.1275)
+Iteration  585  time:  46.69334077835083
+Iteration  586 :  tensor(1.00000e-03 *
+       1.1258)
+Iteration  586  time:  44.62568974494934
+Iteration  587 :  tensor(1.00000e-03 *
+       1.1246)
+Iteration  587  time:  44.34819054603577
+Iteration  588 :  tensor(1.00000e-03 *
+       1.1230)
+Iteration  588  time:  45.73827910423279
+Iteration  589 :  tensor(1.00000e-03 *
+       1.1225)
+Iteration  589  time:  43.894543170928955
+Iteration  590 :  tensor(1.00000e-03 *
+       1.1257)
+Iteration  590  time:  43.459086656570435
+Iteration  591 :  tensor(1.00000e-03 *
+       1.1256)
+Iteration  591  time:  44.965473651885986
+Iteration  592 :  tensor(1.00000e-03 *
+       1.1253)
+Iteration  592  time:  46.384257555007935
+Iteration  593 :  tensor(1.00000e-03 *
+       1.1232)
+Iteration  593  time:  46.0108745098114
+Iteration  594 :  tensor(1.00000e-03 *
+       1.1242)
+Iteration  594  time:  45.72113370895386
+Iteration  595 :  tensor(1.00000e-03 *
+       1.1237)
+Iteration  595  time:  43.05721163749695
+Iteration  596 :  tensor(1.00000e-03 *
+       1.1262)
+Iteration  596  time:  46.62316918373108
+Iteration  597 :  tensor(1.00000e-03 *
+       1.1228)
+Iteration  597  time:  45.604976654052734
+Iteration  598 :  tensor(1.00000e-03 *
+       1.1257)
+Iteration  598  time:  44.8340220451355
+Iteration  599 :  tensor(1.00000e-03 *
+       1.1243)
+Iteration  599  time:  45.15575838088989
+Iteration  600 :  tensor(1.00000e-03 *
+       1.1222)
+Iteration  600  time:  46.58648633956909
+Iteration  601 :  tensor(1.00000e-03 *
+       1.1191)
+Iteration  601  time:  46.57304382324219
+Iteration  602 :  tensor(1.00000e-03 *
+       1.1216)
+Iteration  602  time:  45.35657525062561
+Iteration  603 :  tensor(1.00000e-03 *
+       1.1208)
+Iteration  603  time:  44.349470376968384
+Iteration  604 :  tensor(1.00000e-03 *
+       1.1200)
+Iteration  604  time:  44.81371593475342
+Iteration  605 :  tensor(1.00000e-03 *
+       1.1178)
+Iteration  605  time:  46.40743112564087
+Iteration  606 :  tensor(1.00000e-03 *
+       1.1213)
+Iteration  606  time:  46.79840850830078
+Iteration  607 :  tensor(1.00000e-03 *
+       1.1193)
+Iteration  607  time:  48.01983714103699
+Iteration  608 :  tensor(1.00000e-03 *
+       1.1191)
+Iteration  608  time:  46.212929487228394
+Iteration  609 :  tensor(1.00000e-03 *
+       1.1166)
+Iteration  609  time:  46.96698498725891
+Iteration  610 :  tensor(1.00000e-03 *
+       1.1208)
+Iteration  610  time:  44.63316869735718
+Iteration  611 :  tensor(1.00000e-03 *
+       1.1126)
+Iteration  611  time:  46.5415198802948
+Iteration  612 :  tensor(1.00000e-03 *
+       1.1192)
+Iteration  612  time:  46.47509741783142
+Iteration  613 :  tensor(1.00000e-03 *
+       1.1140)
+Iteration  613  time:  44.76875877380371
+Iteration  614 :  tensor(1.00000e-03 *
+       1.1188)
+Iteration  614  time:  47.41935968399048
+Iteration  615 :  tensor(1.00000e-03 *
+       1.1145)
+Iteration  615  time:  45.744311809539795
+Iteration  616 :  tensor(1.00000e-03 *
+       1.1183)
+Iteration  616  time:  46.99489974975586
+Iteration  617 :  tensor(1.00000e-03 *
+       1.1121)
+Iteration  617  time:  44.39047813415527
+Iteration  618 :  tensor(1.00000e-03 *
+       1.1121)
+Iteration  618  time:  45.7200071811676
+Iteration  619 :  tensor(1.00000e-03 *
+       1.1108)
+Iteration  619  time:  48.717894315719604
+Iteration  620 :  tensor(1.00000e-03 *
+       1.1121)
+Iteration  620  time:  45.0811026096344
+Iteration  621 :  tensor(1.00000e-03 *
+       1.1100)
+Iteration  621  time:  45.61646795272827
+Iteration  622 :  tensor(1.00000e-03 *
+       1.1149)
+Iteration  622  time:  43.742034912109375
+Iteration  623 :  tensor(1.00000e-03 *
+       1.1110)
+Iteration  623  time:  45.847240686416626
+Iteration  624 :  tensor(1.00000e-03 *
+       1.1120)
+Iteration  624  time:  45.177550315856934
+Iteration  625 :  tensor(1.00000e-03 *
+       1.1111)
+Iteration  625  time:  46.12095522880554
+Iteration  626 :  tensor(1.00000e-03 *
+       1.1085)
+Iteration  626  time:  45.28933334350586
+Iteration  627 :  tensor(1.00000e-03 *
+       1.1116)
+Iteration  627  time:  46.225510597229004
+Iteration  628 :  tensor(1.00000e-03 *
+       1.1091)
+Iteration  628  time:  45.91192674636841
+Iteration  629 :  tensor(1.00000e-03 *
+       1.1075)
+Iteration  629  time:  47.296186208724976
+Iteration  630 :  tensor(1.00000e-03 *
+       1.1084)
+Iteration  630  time:  45.67536973953247
+Iteration  631 :  tensor(1.00000e-03 *
+       1.1051)
+Iteration  631  time:  44.37740969657898
+Iteration  632 :  tensor(1.00000e-03 *
+       1.1075)
+Iteration  632  time:  45.79596209526062
+Iteration  633 :  tensor(1.00000e-03 *
+       1.1051)
+Iteration  633  time:  46.60350513458252
+Iteration  634 :  tensor(1.00000e-03 *
+       1.1070)
+Iteration  634  time:  45.62085771560669
+Iteration  635 :  tensor(1.00000e-03 *
+       1.1044)
+Iteration  635  time:  47.298792600631714
+Iteration  636 :  tensor(1.00000e-03 *
+       1.1048)
+Iteration  636  time:  44.64801216125488
+Iteration  637 :  tensor(1.00000e-03 *
+       1.1036)
+Iteration  637  time:  45.946757555007935
+Iteration  638 :  tensor(1.00000e-03 *
+       1.1069)
+Iteration  638  time:  48.28533315658569
+Iteration  639 :  tensor(1.00000e-03 *
+       1.1106)
+Iteration  639  time:  49.76376295089722
+Iteration  640 :  tensor(1.00000e-03 *
+       1.1151)
+Iteration  640  time:  46.29581880569458
+Iteration  641 :  tensor(1.00000e-03 *
+       1.1163)
+Iteration  641  time:  44.54731512069702
+Iteration  642 :  tensor(1.00000e-03 *
+       1.1101)
+Iteration  642  time:  46.571014404296875
+Iteration  643 :  tensor(1.00000e-03 *
+       1.1144)
+Iteration  643  time:  47.57762551307678
+Iteration  644 :  tensor(1.00000e-03 *
+       1.1151)
+Iteration  644  time:  45.91849637031555
+Iteration  645 :  tensor(1.00000e-03 *
+       1.1170)
+Iteration  645  time:  45.82791543006897
+Iteration  646 :  tensor(1.00000e-03 *
+       1.1148)
+Iteration  646  time:  45.385393142700195
+Iteration  647 :  tensor(1.00000e-03 *
+       1.1120)
+Iteration  647  time:  44.56480813026428
+Iteration  648 :  tensor(1.00000e-03 *
+       1.1032)
+Iteration  648  time:  45.04702115058899
+Iteration  649 :  tensor(1.00000e-03 *
+       1.1061)
+Iteration  649  time:  46.54641532897949
+Iteration  650 :  tensor(1.00000e-03 *
+       1.1061)
+Iteration  650  time:  47.035038232803345
+Iteration  651 :  tensor(1.00000e-03 *
+       1.1062)
+Iteration  651  time:  47.88657307624817
+Iteration  652 :  tensor(1.00000e-03 *
+       1.1045)
+Iteration  652  time:  46.69499611854553
+Iteration  653 :  tensor(1.00000e-03 *
+       1.1020)
+Iteration  653  time:  43.37606477737427
+Iteration  654 :  tensor(1.00000e-03 *
+       1.1049)
+Iteration  654  time:  44.07975435256958
+Iteration  655 :  tensor(1.00000e-03 *
+       1.1040)
+Iteration  655  time:  45.1839382648468
+Iteration  656 :  tensor(1.00000e-03 *
+       1.1030)
+Iteration  656  time:  47.76198625564575
+Iteration  657 :  tensor(1.00000e-03 *
+       1.1087)
+Iteration  657  time:  43.1116247177124
+Iteration  658 :  tensor(1.00000e-03 *
+       1.1017)
+Iteration  658  time:  47.263962507247925
+Iteration  659 :  tensor(1.00000e-03 *
+       1.1034)
+Iteration  659  time:  47.34805130958557
+Iteration  660 :  tensor(1.00000e-03 *
+       1.1017)
+Iteration  660  time:  46.10098218917847
+Iteration  661 :  tensor(1.00000e-03 *
+       1.0979)
+Iteration  661  time:  46.5803017616272
+Iteration  662 :  tensor(1.00000e-03 *
+       1.0986)
+Iteration  662  time:  47.72593569755554
+Iteration  663 :  tensor(1.00000e-03 *
+       1.0970)
+Iteration  663  time:  44.91698908805847
+Iteration  664 :  tensor(1.00000e-03 *
+       1.0997)
+Iteration  664  time:  45.00744605064392
+Iteration  665 :  tensor(1.00000e-03 *
+       1.0987)
+Iteration  665  time:  45.26373887062073
+Iteration  666 :  tensor(1.00000e-03 *
+       1.0989)
+Iteration  666  time:  45.59879112243652
+Iteration  667 :  tensor(1.00000e-03 *
+       1.1008)
+Iteration  667  time:  46.89951300621033
+Iteration  668 :  tensor(1.00000e-03 *
+       1.0973)
+Iteration  668  time:  46.083338499069214
+Iteration  669 :  tensor(1.00000e-03 *
+       1.0969)
+Iteration  669  time:  45.9799439907074
+Iteration  670 :  tensor(1.00000e-03 *
+       1.0960)
+Iteration  670  time:  45.976741790771484
+Iteration  671 :  tensor(1.00000e-03 *
+       1.0939)
+Iteration  671  time:  46.17568230628967
+Iteration  672 :  tensor(1.00000e-03 *
+       1.0954)
+Iteration  672  time:  44.91709113121033
+Iteration  673 :  tensor(1.00000e-03 *
+       1.0939)
+Iteration  673  time:  47.33558678627014
+Iteration  674 :  tensor(1.00000e-03 *
+       1.0950)
+Iteration  674  time:  48.019248485565186
+Iteration  675 :  tensor(1.00000e-03 *
+       1.0940)
+Iteration  675  time:  44.915501832962036
+Iteration  676 :  tensor(1.00000e-03 *
+       1.0921)
+Iteration  676  time:  43.82032060623169
+Iteration  677 :  tensor(1.00000e-03 *
+       1.0935)
+Iteration  677  time:  46.63526487350464
+Iteration  678 :  tensor(1.00000e-03 *
+       1.0917)
+Iteration  678  time:  44.06618881225586
+Iteration  679 :  tensor(1.00000e-03 *
+       1.0923)
+Iteration  679  time:  44.7747859954834
+Iteration  680 :  tensor(1.00000e-03 *
+       1.0925)
+Iteration  680  time:  47.46247148513794
+Iteration  681 :  tensor(1.00000e-03 *
+       1.0926)
+Iteration  681  time:  48.29997277259827
+Iteration  682 :  tensor(1.00000e-03 *
+       1.0919)
+Iteration  682  time:  46.08822464942932
+Iteration  683 :  tensor(1.00000e-03 *
+       1.0905)
+Iteration  683  time:  46.43889141082764
+Iteration  684 :  tensor(1.00000e-03 *
+       1.0919)
+Iteration  684  time:  44.772027254104614
+Iteration  685 :  tensor(1.00000e-03 *
+       1.0902)
+Iteration  685  time:  43.58586120605469
+Iteration  686 :  tensor(1.00000e-03 *
+       1.0898)
+Iteration  686  time:  45.623093128204346
+Iteration  687 :  tensor(1.00000e-03 *
+       1.0907)
+Iteration  687  time:  44.830915689468384
+Iteration  688 :  tensor(1.00000e-03 *
+       1.0934)
+Iteration  688  time:  44.96508860588074
+Iteration  689 :  tensor(1.00000e-03 *
+       1.0958)
+Iteration  689  time:  46.50813937187195
+Iteration  690 :  tensor(1.00000e-03 *
+       1.0975)
+Iteration  690  time:  44.0995934009552
+Iteration  691 :  tensor(1.00000e-03 *
+       1.1021)
+Iteration  691  time:  46.6562979221344
+Iteration  692 :  tensor(1.00000e-03 *
+       1.1026)
+Iteration  692  time:  46.6058828830719
+Iteration  693 :  tensor(1.00000e-03 *
+       1.1017)
+Iteration  693  time:  45.832359790802
+Iteration  694 :  tensor(1.00000e-03 *
+       1.0979)
+Iteration  694  time:  45.97753620147705
+Iteration  695 :  tensor(1.00000e-03 *
+       1.0917)
+Iteration  695  time:  46.20312833786011
+Iteration  696 :  tensor(1.00000e-03 *
+       1.0903)
+Iteration  696  time:  47.2603120803833
+Iteration  697 :  tensor(1.00000e-03 *
+       1.0870)
+Iteration  697  time:  46.583086252212524
+Iteration  698 :  tensor(1.00000e-03 *
+       1.0891)
+Iteration  698  time:  45.077418088912964
+Iteration  699 :  tensor(1.00000e-03 *
+       1.0908)
+Iteration  699  time:  44.26764798164368
+Iteration  700 :  tensor(1.00000e-03 *
+       1.0930)
+Iteration  700  time:  45.066731691360474
+Iteration  701 :  tensor(1.00000e-03 *
+       1.0901)
+Iteration  701  time:  47.04782223701477
+Iteration  702 :  tensor(1.00000e-03 *
+       1.0879)
+Iteration  702  time:  48.100135803222656
+Iteration  703 :  tensor(1.00000e-03 *
+       1.0851)
+Iteration  703  time:  45.96118688583374
+Iteration  704 :  tensor(1.00000e-03 *
+       1.0841)
+Iteration  704  time:  46.190898180007935
+Iteration  705 :  tensor(1.00000e-03 *
+       1.0867)
+Iteration  705  time:  46.48784279823303
+Iteration  706 :  tensor(1.00000e-03 *
+       1.0866)
+Iteration  706  time:  47.88301944732666
+Iteration  707 :  tensor(1.00000e-03 *
+       1.0859)
+Iteration  707  time:  45.077871322631836
+Iteration  708 :  tensor(1.00000e-03 *
+       1.0850)
+Iteration  708  time:  46.582305669784546
+Iteration  709 :  tensor(1.00000e-03 *
+       1.0859)
+Iteration  709  time:  46.804100036621094
+Iteration  710 :  tensor(1.00000e-03 *
+       1.0862)
+Iteration  710  time:  45.69989633560181
+Iteration  711 :  tensor(1.00000e-03 *
+       1.0836)
+Iteration  711  time:  43.42866277694702
+Iteration  712 :  tensor(1.00000e-03 *
+       1.0858)
+Iteration  712  time:  45.35079312324524
+Iteration  713 :  tensor(1.00000e-03 *
+       1.0854)
+Iteration  713  time:  45.20325183868408
+Iteration  714 :  tensor(1.00000e-03 *
+       1.0845)
+Iteration  714  time:  45.9998140335083
+Iteration  715 :  tensor(1.00000e-03 *
+       1.0884)
+Iteration  715  time:  43.60848808288574
+Iteration  716 :  tensor(1.00000e-03 *
+       1.0884)
+Iteration  716  time:  44.10347867012024
+Iteration  717 :  tensor(1.00000e-03 *
+       1.0851)
+Iteration  717  time:  43.73738646507263
+Iteration  718 :  tensor(1.00000e-03 *
+       1.0878)
+Iteration  718  time:  44.75647330284119
+Iteration  719 :  tensor(1.00000e-03 *
+       1.0848)
+Iteration  719  time:  47.299739599227905
+Iteration  720 :  tensor(1.00000e-03 *
+       1.0879)
+Iteration  720  time:  47.30439829826355
+Iteration  721 :  tensor(1.00000e-03 *
+       1.0879)
+Iteration  721  time:  45.693371534347534
+Iteration  722 :  tensor(1.00000e-03 *
+       1.0879)
+Iteration  722  time:  45.42236542701721
+Iteration  723 :  tensor(1.00000e-03 *
+       1.0875)
+Iteration  723  time:  47.56399750709534
+Iteration  724 :  tensor(1.00000e-03 *
+       1.0857)
+Iteration  724  time:  46.02245736122131
+Iteration  725 :  tensor(1.00000e-03 *
+       1.0839)
+Iteration  725  time:  46.916197776794434
+Iteration  726 :  tensor(1.00000e-03 *
+       1.0839)
+Iteration  726  time:  48.2264506816864
+Iteration  727 :  tensor(1.00000e-03 *
+       1.0811)
+Iteration  727  time:  43.42874479293823
+Iteration  728 :  tensor(1.00000e-03 *
+       1.0829)
+Iteration  728  time:  43.82939171791077
+Iteration  729 :  tensor(1.00000e-03 *
+       1.0816)
+Iteration  729  time:  45.83780002593994
+Iteration  730 :  tensor(1.00000e-03 *
+       1.0822)
+Iteration  730  time:  46.12127995491028
+Iteration  731 :  tensor(1.00000e-03 *
+       1.0855)
+Iteration  731  time:  44.508023262023926
+Iteration  732 :  tensor(1.00000e-03 *
+       1.0810)
+Iteration  732  time:  42.478922843933105
+Iteration  733 :  tensor(1.00000e-03 *
+       1.0827)
+Iteration  733  time:  44.15659689903259
+Iteration  734 :  tensor(1.00000e-03 *
+       1.0807)
+Iteration  734  time:  44.119713306427
+Iteration  735 :  tensor(1.00000e-03 *
+       1.0825)
+Iteration  735  time:  46.71550464630127
+Iteration  736 :  tensor(1.00000e-03 *
+       1.0830)
+Iteration  736  time:  45.611899852752686
+Iteration  737 :  tensor(1.00000e-03 *
+       1.0817)
+Iteration  737  time:  46.784640312194824
+Iteration  738 :  tensor(1.00000e-03 *
+       1.0810)
+Iteration  738  time:  45.303112506866455
+Iteration  739 :  tensor(1.00000e-03 *
+       1.0862)
+Iteration  739  time:  44.803096294403076
+Iteration  740 :  tensor(1.00000e-03 *
+       1.0844)
+Iteration  740  time:  47.17128372192383
+Iteration  741 :  tensor(1.00000e-03 *
+       1.0824)
+Iteration  741  time:  48.28509187698364
+Iteration  742 :  tensor(1.00000e-03 *
+       1.0807)
+Iteration  742  time:  46.1702561378479
+Iteration  743 :  tensor(1.00000e-03 *
+       1.0822)
+Iteration  743  time:  44.474292278289795
+Iteration  744 :  tensor(1.00000e-03 *
+       1.0806)
+Iteration  744  time:  44.80378270149231
+Iteration  745 :  tensor(1.00000e-03 *
+       1.0849)
+Iteration  745  time:  43.30420255661011
+Iteration  746 :  tensor(1.00000e-03 *
+       1.0792)
+Iteration  746  time:  44.798824071884155
+Iteration  747 :  tensor(1.00000e-03 *
+       1.0788)
+Iteration  747  time:  45.40417981147766
+Iteration  748 :  tensor(1.00000e-03 *
+       1.0781)
+Iteration  748  time:  44.98310089111328
+Iteration  749 :  tensor(1.00000e-03 *
+       1.0789)
+Iteration  749  time:  45.20925998687744
+Iteration  750 :  tensor(1.00000e-03 *
+       1.0786)
+Iteration  750  time:  46.576181411743164
+Iteration  751 :  tensor(1.00000e-03 *
+       1.0761)
+Iteration  751  time:  44.597700119018555
+Iteration  752 :  tensor(1.00000e-03 *
+       1.0797)
+Iteration  752  time:  45.3558828830719
+Iteration  753 :  tensor(1.00000e-03 *
+       1.0781)
+Iteration  753  time:  43.843122243881226
+Iteration  754 :  tensor(1.00000e-03 *
+       1.0767)
+Iteration  754  time:  44.44742035865784
+Iteration  755 :  tensor(1.00000e-03 *
+       1.0749)
+Iteration  755  time:  46.03235578536987
+Iteration  756 :  tensor(1.00000e-03 *
+       1.0741)
+Iteration  756  time:  45.1196174621582
+Iteration  757 :  tensor(1.00000e-03 *
+       1.0734)
+Iteration  757  time:  45.248878717422485
+Iteration  758 :  tensor(1.00000e-03 *
+       1.0741)
+Iteration  758  time:  44.65502882003784
+Iteration  759 :  tensor(1.00000e-03 *
+       1.0776)
+Iteration  759  time:  46.12563347816467
+Iteration  760 :  tensor(1.00000e-03 *
+       1.0771)
+Iteration  760  time:  45.3807897567749
+Iteration  761 :  tensor(1.00000e-03 *
+       1.0780)
+Iteration  761  time:  44.762330293655396
+Iteration  762 :  tensor(1.00000e-03 *
+       1.0762)
+Iteration  762  time:  42.04251265525818
+Iteration  763 :  tensor(1.00000e-03 *
+       1.0770)
+Iteration  763  time:  46.864558935165405
+Iteration  764 :  tensor(1.00000e-03 *
+       1.0765)
+Iteration  764  time:  45.22319960594177
+Iteration  765 :  tensor(1.00000e-03 *
+       1.0742)
+Iteration  765  time:  45.68981313705444
+Iteration  766 :  tensor(1.00000e-03 *
+       1.0737)
+Iteration  766  time:  48.62568807601929
+Iteration  767 :  tensor(1.00000e-03 *
+       1.0708)
+Iteration  767  time:  44.12843108177185
+Iteration  768 :  tensor(1.00000e-03 *
+       1.0719)
+Iteration  768  time:  43.910855531692505
+Iteration  769 :  tensor(1.00000e-03 *
+       1.0723)
+Iteration  769  time:  44.76723766326904
+Iteration  770 :  tensor(1.00000e-03 *
+       1.0736)
+Iteration  770  time:  45.2980842590332
+Iteration  771 :  tensor(1.00000e-03 *
+       1.0715)
+Iteration  771  time:  45.59822177886963
+Iteration  772 :  tensor(1.00000e-03 *
+       1.0724)
+Iteration  772  time:  46.309322357177734
+Iteration  773 :  tensor(1.00000e-03 *
+       1.0720)
+Iteration  773  time:  46.20786643028259
+Iteration  774 :  tensor(1.00000e-03 *
+       1.0713)
+Iteration  774  time:  45.73223853111267
+Iteration  775 :  tensor(1.00000e-03 *
+       1.0697)
+Iteration  775  time:  47.29035997390747
+Iteration  776 :  tensor(1.00000e-03 *
+       1.0693)
+Iteration  776  time:  43.77718496322632
+Iteration  777 :  tensor(1.00000e-03 *
+       1.0676)
+Iteration  777  time:  45.30444526672363
+Iteration  778 :  tensor(1.00000e-03 *
+       1.0683)
+Iteration  778  time:  45.93182682991028
+Iteration  779 :  tensor(1.00000e-03 *
+       1.0692)
+Iteration  779  time:  45.50123190879822
+Iteration  780 :  tensor(1.00000e-03 *
+       1.0692)
+Iteration  780  time:  46.392253398895264
+Iteration  781 :  tensor(1.00000e-03 *
+       1.0725)
+Iteration  781  time:  45.830931425094604
+Iteration  782 :  tensor(1.00000e-03 *
+       1.0770)
+Iteration  782  time:  46.358474254608154
+Iteration  783 :  tensor(1.00000e-03 *
+       1.0770)
+Iteration  783  time:  46.52003216743469
+Iteration  784 :  tensor(1.00000e-03 *
+       1.0802)
+Iteration  784  time:  45.403305768966675
+Iteration  785 :  tensor(1.00000e-03 *
+       1.0829)
+Iteration  785  time:  46.64386820793152
+Iteration  786 :  tensor(1.00000e-03 *
+       1.0794)
+Iteration  786  time:  45.03255081176758
+Iteration  787 :  tensor(1.00000e-03 *
+       1.0766)
+Iteration  787  time:  45.05303907394409
+Iteration  788 :  tensor(1.00000e-03 *
+       1.0756)
+Iteration  788  time:  45.5101478099823
+Iteration  789 :  tensor(1.00000e-03 *
+       1.0716)
+Iteration  789  time:  45.413944482803345
+Iteration  790 :  tensor(1.00000e-03 *
+       1.0725)
+Iteration  790  time:  45.69170928001404
+Iteration  791 :  tensor(1.00000e-03 *
+       1.0706)
+Iteration  791  time:  45.44587564468384
+Iteration  792 :  tensor(1.00000e-03 *
+       1.0750)
+Iteration  792  time:  46.59760117530823
+Iteration  793 :  tensor(1.00000e-03 *
+       1.0722)
+Iteration  793  time:  46.45838236808777
+Iteration  794 :  tensor(1.00000e-03 *
+       1.0743)
+Iteration  794  time:  44.567424058914185
+Iteration  795 :  tensor(1.00000e-03 *
+       1.0748)
+Iteration  795  time:  43.44822025299072
+Iteration  796 :  tensor(1.00000e-03 *
+       1.0719)
+Iteration  796  time:  47.38181471824646
+Iteration  797 :  tensor(1.00000e-03 *
+       1.0668)
+Iteration  797  time:  45.72543144226074
+Iteration  798 :  tensor(1.00000e-03 *
+       1.0655)
+Iteration  798  time:  48.78148937225342
+Iteration  799 :  tensor(1.00000e-03 *
+       1.0680)
+Iteration  799  time:  46.37964224815369
+Iteration  800 :  tensor(1.00000e-03 *
+       1.0668)
+Iteration  800  time:  45.818477392196655
+Iteration  801 :  tensor(1.00000e-03 *
+       1.0680)
+Iteration  801  time:  46.37346816062927
+Iteration  802 :  tensor(1.00000e-03 *
+       1.0638)
+Iteration  802  time:  45.39972901344299
+Iteration  803 :  tensor(1.00000e-03 *
+       1.0642)
+Iteration  803  time:  45.48093938827515
+Iteration  804 :  tensor(1.00000e-03 *
+       1.0661)
+Iteration  804  time:  45.171117067337036
+Iteration  805 :  tensor(1.00000e-03 *
+       1.0635)
+Iteration  805  time:  45.93597102165222
+Iteration  806 :  tensor(1.00000e-03 *
+       1.0615)
+Iteration  806  time:  44.306639194488525
+Iteration  807 :  tensor(1.00000e-03 *
+       1.0623)
+Iteration  807  time:  47.19218969345093
+Iteration  808 :  tensor(1.00000e-03 *
+       1.0658)
+Iteration  808  time:  45.86412596702576
+Iteration  809 :  tensor(1.00000e-03 *
+       1.0653)
+Iteration  809  time:  44.9917368888855
+Iteration  810 :  tensor(1.00000e-03 *
+       1.0664)
+Iteration  810  time:  45.09916281700134
+Iteration  811 :  tensor(1.00000e-03 *
+       1.0632)
+Iteration  811  time:  46.03786611557007
+Iteration  812 :  tensor(1.00000e-03 *
+       1.0631)
+Iteration  812  time:  47.03946566581726
+Iteration  813 :  tensor(1.00000e-03 *
+       1.0617)
+Iteration  813  time:  43.50047421455383
+Iteration  814 :  tensor(1.00000e-03 *
+       1.0633)
+Iteration  814  time:  44.968162298202515
+Iteration  815 :  tensor(1.00000e-03 *
+       1.0631)
+Iteration  815  time:  44.94709348678589
+Iteration  816 :  tensor(1.00000e-03 *
+       1.0622)
+Iteration  816  time:  45.57924818992615
+Iteration  817 :  tensor(1.00000e-03 *
+       1.0647)
+Iteration  817  time:  44.04811120033264
+Iteration  818 :  tensor(1.00000e-03 *
+       1.0623)
+Iteration  818  time:  44.57254910469055
+Iteration  819 :  tensor(1.00000e-03 *
+       1.0616)
+Iteration  819  time:  47.91091179847717
+Iteration  820 :  tensor(1.00000e-03 *
+       1.0605)
+Iteration  820  time:  45.092479944229126
+Iteration  821 :  tensor(1.00000e-03 *
+       1.0638)
+Iteration  821  time:  44.697614431381226
+Iteration  822 :  tensor(1.00000e-03 *
+       1.0598)
+Iteration  822  time:  45.35103368759155
+Iteration  823 :  tensor(1.00000e-03 *
+       1.0616)
+Iteration  823  time:  46.88915729522705
+Iteration  824 :  tensor(1.00000e-03 *
+       1.0606)
+Iteration  824  time:  46.86170029640198
+Iteration  825 :  tensor(1.00000e-03 *
+       1.0642)
+Iteration  825  time:  44.33978033065796
+Iteration  826 :  tensor(1.00000e-03 *
+       1.0676)
+Iteration  826  time:  45.46058225631714
+Iteration  827 :  tensor(1.00000e-03 *
+       1.0628)
+Iteration  827  time:  46.771026372909546
+Iteration  828 :  tensor(1.00000e-03 *
+       1.0635)
+Iteration  828  time:  44.64432978630066
+Iteration  829 :  tensor(1.00000e-03 *
+       1.0611)
+Iteration  829  time:  46.13574743270874
+Iteration  830 :  tensor(1.00000e-03 *
+       1.0690)
+Iteration  830  time:  46.44907808303833
+Iteration  831 :  tensor(1.00000e-03 *
+       1.0709)
+Iteration  831  time:  45.44019556045532
+Iteration  832 :  tensor(1.00000e-03 *
+       1.0727)
+Iteration  832  time:  45.75954055786133
+Iteration  833 :  tensor(1.00000e-03 *
+       1.0674)
+Iteration  833  time:  44.43156981468201
+Iteration  834 :  tensor(1.00000e-03 *
+       1.0653)
+Iteration  834  time:  45.993083000183105
+Iteration  835 :  tensor(1.00000e-03 *
+       1.0616)
+Iteration  835  time:  46.11945962905884
+Iteration  836 :  tensor(1.00000e-03 *
+       1.0620)
+Iteration  836  time:  46.20756006240845
+Iteration  837 :  tensor(1.00000e-03 *
+       1.0591)
+Iteration  837  time:  43.52412557601929
+Iteration  838 :  tensor(1.00000e-03 *
+       1.0600)
+Iteration  838  time:  45.3041410446167
+Iteration  839 :  tensor(1.00000e-03 *
+       1.0561)
+Iteration  839  time:  45.748037576675415
+Iteration  840 :  tensor(1.00000e-03 *
+       1.0578)
+Iteration  840  time:  44.97421073913574
+Iteration  841 :  tensor(1.00000e-03 *
+       1.0604)
+Iteration  841  time:  46.081406354904175
+Iteration  842 :  tensor(1.00000e-03 *
+       1.0597)
+Iteration  842  time:  46.95753860473633
+Iteration  843 :  tensor(1.00000e-03 *
+       1.0579)
+Iteration  843  time:  44.773040533065796
+Iteration  844 :  tensor(1.00000e-03 *
+       1.0567)
+Iteration  844  time:  43.45355415344238
+Iteration  845 :  tensor(1.00000e-03 *
+       1.0569)
+Iteration  845  time:  45.15224623680115
+Iteration  846 :  tensor(1.00000e-03 *
+       1.0538)
+Iteration  846  time:  46.74972891807556
+Iteration  847 :  tensor(1.00000e-03 *
+       1.0542)
+Iteration  847  time:  45.373648166656494
+Iteration  848 :  tensor(1.00000e-03 *
+       1.0554)
+Iteration  848  time:  46.10392427444458
+Iteration  849 :  tensor(1.00000e-03 *
+       1.0530)
+Iteration  849  time:  46.07941269874573
+Iteration  850 :  tensor(1.00000e-03 *
+       1.0531)
+Iteration  850  time:  43.686586141586304
+Iteration  851 :  tensor(1.00000e-03 *
+       1.0533)
+Iteration  851  time:  45.069300413131714
+Iteration  852 :  tensor(1.00000e-03 *
+       1.0540)
+Iteration  852  time:  45.63559412956238
+Iteration  853 :  tensor(1.00000e-03 *
+       1.0558)
+Iteration  853  time:  44.9119234085083
+Iteration  854 :  tensor(1.00000e-03 *
+       1.0541)
+Iteration  854  time:  45.78213715553284
+Iteration  855 :  tensor(1.00000e-03 *
+       1.0529)
+Iteration  855  time:  45.280412912368774
+Iteration  856 :  tensor(1.00000e-03 *
+       1.0537)
+Iteration  856  time:  44.014700174331665
+Iteration  857 :  tensor(1.00000e-03 *
+       1.0564)
+Iteration  857  time:  47.3524215221405
+Iteration  858 :  tensor(1.00000e-03 *
+       1.0533)
+Iteration  858  time:  43.76826477050781
+Iteration  859 :  tensor(1.00000e-03 *
+       1.0544)
+Iteration  859  time:  45.721877098083496
+Iteration  860 :  tensor(1.00000e-03 *
+       1.0529)
+Iteration  860  time:  43.499006271362305
+Iteration  861 :  tensor(1.00000e-03 *
+       1.0537)
+Iteration  861  time:  47.32907485961914
+Iteration  862 :  tensor(1.00000e-03 *
+       1.0536)
+Iteration  862  time:  46.35604453086853
+Iteration  863 :  tensor(1.00000e-03 *
+       1.0562)
+Iteration  863  time:  45.9959282875061
+Iteration  864 :  tensor(1.00000e-03 *
+       1.0573)
+Iteration  864  time:  45.401060342788696
+Iteration  865 :  tensor(1.00000e-03 *
+       1.0586)
+Iteration  865  time:  43.36794447898865
+Iteration  866 :  tensor(1.00000e-03 *
+       1.0594)
+Iteration  866  time:  46.58162784576416
+Iteration  867 :  tensor(1.00000e-03 *
+       1.0559)
+Iteration  867  time:  45.55654549598694
+Iteration  868 :  tensor(1.00000e-03 *
+       1.0552)
+Iteration  868  time:  46.66875648498535
+Iteration  869 :  tensor(1.00000e-03 *
+       1.0532)
+Iteration  869  time:  47.030592918395996
+Iteration  870 :  tensor(1.00000e-03 *
+       1.0530)
+Iteration  870  time:  45.44218325614929
+Iteration  871 :  tensor(1.00000e-03 *
+       1.0502)
+Iteration  871  time:  46.58104085922241
+Iteration  872 :  tensor(1.00000e-03 *
+       1.0499)
+Iteration  872  time:  46.889981746673584
+Iteration  873 :  tensor(1.00000e-03 *
+       1.0499)
+Iteration  873  time:  44.201985120773315
+Iteration  874 :  tensor(1.00000e-03 *
+       1.0503)
+Iteration  874  time:  46.716591119766235
+Iteration  875 :  tensor(1.00000e-03 *
+       1.0509)
+Iteration  875  time:  45.129677057266235
+Iteration  876 :  tensor(1.00000e-03 *
+       1.0508)
+Iteration  876  time:  46.09649443626404
+Iteration  877 :  tensor(1.00000e-03 *
+       1.0527)
+Iteration  877  time:  45.08328700065613
+Iteration  878 :  tensor(1.00000e-03 *
+       1.0514)
+Iteration  878  time:  47.71072697639465
+Iteration  879 :  tensor(1.00000e-03 *
+       1.0511)
+Iteration  879  time:  47.2878475189209
+Iteration  880 :  tensor(1.00000e-03 *
+       1.0498)
+Iteration  880  time:  42.54690194129944
+Iteration  881 :  tensor(1.00000e-03 *
+       1.0497)
+Iteration  881  time:  46.120994329452515
+Iteration  882 :  tensor(1.00000e-03 *
+       1.0464)
+Iteration  882  time:  45.14326548576355
+Iteration  883 :  tensor(1.00000e-03 *
+       1.0483)
+Iteration  883  time:  43.96314263343811
+Iteration  884 :  tensor(1.00000e-03 *
+       1.0480)
+Iteration  884  time:  46.42538118362427
+Iteration  885 :  tensor(1.00000e-03 *
+       1.0485)
+Iteration  885  time:  44.378751039505005
+Iteration  886 :  tensor(1.00000e-03 *
+       1.0488)
+Iteration  886  time:  44.355072259902954
+Iteration  887 :  tensor(1.00000e-03 *
+       1.0484)
+Iteration  887  time:  46.02426838874817
+Iteration  888 :  tensor(1.00000e-03 *
+       1.0482)
+Iteration  888  time:  45.64887285232544
+Iteration  889 :  tensor(1.00000e-03 *
+       1.0468)
+Iteration  889  time:  45.32364892959595
+Iteration  890 :  tensor(1.00000e-03 *
+       1.0495)
+Iteration  890  time:  43.03949308395386
+Iteration  891 :  tensor(1.00000e-03 *
+       1.0498)
+Iteration  891  time:  44.21639394760132
+Iteration  892 :  tensor(1.00000e-03 *
+       1.0489)
+Iteration  892  time:  45.24083876609802
+Iteration  893 :  tensor(1.00000e-03 *
+       1.0461)
+Iteration  893  time:  45.53318214416504
+Iteration  894 :  tensor(1.00000e-03 *
+       1.0481)
+Iteration  894  time:  46.03632354736328
+Iteration  895 :  tensor(1.00000e-03 *
+       1.0479)
+Iteration  895  time:  46.737879276275635
+Iteration  896 :  tensor(1.00000e-03 *
+       1.0485)
+Iteration  896  time:  45.33661365509033
+Iteration  897 :  tensor(1.00000e-03 *
+       1.0493)
+Iteration  897  time:  44.534860372543335
+Iteration  898 :  tensor(1.00000e-03 *
+       1.0487)
+Iteration  898  time:  45.68651461601257
+Iteration  899 :  tensor(1.00000e-03 *
+       1.0510)
+Iteration  899  time:  46.936344385147095
+Iteration  900 :  tensor(1.00000e-03 *
+       1.0505)
+Iteration  900  time:  45.340200662612915
+Iteration  901 :  tensor(1.00000e-03 *
+       1.0485)
+Iteration  901  time:  43.492170572280884
+Iteration  902 :  tensor(1.00000e-03 *
+       1.0467)
+Iteration  902  time:  44.021159172058105
+Iteration  903 :  tensor(1.00000e-03 *
+       1.0468)
+Iteration  903  time:  46.64560508728027
+Iteration  904 :  tensor(1.00000e-03 *
+       1.0477)
+Iteration  904  time:  45.31169605255127
+Iteration  905 :  tensor(1.00000e-03 *
+       1.0508)
+Iteration  905  time:  45.25068640708923
+Iteration  906 :  tensor(1.00000e-03 *
+       1.0537)
+Iteration  906  time:  44.361430644989014
+Iteration  907 :  tensor(1.00000e-03 *
+       1.0583)
+Iteration  907  time:  43.46577191352844
+Iteration  908 :  tensor(1.00000e-03 *
+       1.0589)
+Iteration  908  time:  43.92793393135071
+Iteration  909 :  tensor(1.00000e-03 *
+       1.0598)
+Iteration  909  time:  45.05669188499451
+Iteration  910 :  tensor(1.00000e-03 *
+       1.0552)
+Iteration  910  time:  45.84764313697815
+Iteration  911 :  tensor(1.00000e-03 *
+       1.0498)
+Iteration  911  time:  44.67117762565613
+Iteration  912 :  tensor(1.00000e-03 *
+       1.0504)
+Iteration  912  time:  44.98691153526306
+Iteration  913 :  tensor(1.00000e-03 *
+       1.0515)
+Iteration  913  time:  45.62577748298645
+Iteration  914 :  tensor(1.00000e-03 *
+       1.0502)
+Iteration  914  time:  44.024876832962036
+Iteration  915 :  tensor(1.00000e-03 *
+       1.0502)
+Iteration  915  time:  47.552499532699585
+Iteration  916 :  tensor(1.00000e-03 *
+       1.0459)
+Iteration  916  time:  45.87429666519165
+Iteration  917 :  tensor(1.00000e-03 *
+       1.0495)
+Iteration  917  time:  45.37279295921326
+Iteration  918 :  tensor(1.00000e-03 *
+       1.0491)
+Iteration  918  time:  46.04602599143982
+Iteration  919 :  tensor(1.00000e-03 *
+       1.0471)
+Iteration  919  time:  45.26776933670044
+Iteration  920 :  tensor(1.00000e-03 *
+       1.0449)
+Iteration  920  time:  48.276671171188354
+Iteration  921 :  tensor(1.00000e-03 *
+       1.0434)
+Iteration  921  time:  45.10240387916565
+Iteration  922 :  tensor(1.00000e-03 *
+       1.0440)
+Iteration  922  time:  46.115835428237915
+Iteration  923 :  tensor(1.00000e-03 *
+       1.0470)
+Iteration  923  time:  44.67792344093323
+Iteration  924 :  tensor(1.00000e-03 *
+       1.0427)
+Iteration  924  time:  46.25453734397888
+Iteration  925 :  tensor(1.00000e-03 *
+       1.0418)
+Iteration  925  time:  45.43683195114136
+Iteration  926 :  tensor(1.00000e-03 *
+       1.0421)
+Iteration  926  time:  45.63516044616699
+Iteration  927 :  tensor(1.00000e-03 *
+       1.0414)
+Iteration  927  time:  45.122631788253784
+Iteration  928 :  tensor(1.00000e-03 *
+       1.0403)
+Iteration  928  time:  44.60940217971802
+Iteration  929 :  tensor(1.00000e-03 *
+       1.0394)
+Iteration  929  time:  42.83313012123108
+Iteration  930 :  tensor(1.00000e-03 *
+       1.0391)
+Iteration  930  time:  45.28885316848755
+Iteration  931 :  tensor(1.00000e-03 *
+       1.0408)
+Iteration  931  time:  46.22284984588623
+Iteration  932 :  tensor(1.00000e-03 *
+       1.0390)
+Iteration  932  time:  46.38679242134094
+Iteration  933 :  tensor(1.00000e-03 *
+       1.0427)
+Iteration  933  time:  45.8797709941864
+Iteration  934 :  tensor(1.00000e-03 *
+       1.0404)
+Iteration  934  time:  44.925623416900635
+Iteration  935 :  tensor(1.00000e-03 *
+       1.0411)
+Iteration  935  time:  47.79424476623535
+Iteration  936 :  tensor(1.00000e-03 *
+       1.0384)
+Iteration  936  time:  45.63627099990845
+Iteration  937 :  tensor(1.00000e-03 *
+       1.0388)
+Iteration  937  time:  45.243497371673584
+Iteration  938 :  tensor(1.00000e-03 *
+       1.0389)
+Iteration  938  time:  44.603190660476685
+Iteration  939 :  tensor(1.00000e-03 *
+       1.0426)
+Iteration  939  time:  44.209144115448
+Iteration  940 :  tensor(1.00000e-03 *
+       1.0391)
+Iteration  940  time:  46.08072376251221
+Iteration  941 :  tensor(1.00000e-03 *
+       1.0405)
+Iteration  941  time:  44.22342014312744
+Iteration  942 :  tensor(1.00000e-03 *
+       1.0424)
+Iteration  942  time:  45.608625650405884
+Iteration  943 :  tensor(1.00000e-03 *
+       1.0395)
+Iteration  943  time:  45.107115030288696
+Iteration  944 :  tensor(1.00000e-03 *
+       1.0406)
+Iteration  944  time:  45.57587265968323
+Iteration  945 :  tensor(1.00000e-03 *
+       1.0392)
+Iteration  945  time:  45.312543630599976
+Iteration  946 :  tensor(1.00000e-03 *
+       1.0378)
+Iteration  946  time:  46.23796558380127
+Iteration  947 :  tensor(1.00000e-03 *
+       1.0385)
+Iteration  947  time:  46.19859170913696
+Iteration  948 :  tensor(1.00000e-03 *
+       1.0370)
+Iteration  948  time:  44.63280415534973
+Iteration  949 :  tensor(1.00000e-03 *
+       1.0391)
+Iteration  949  time:  46.58237838745117
+Iteration  950 :  tensor(1.00000e-03 *
+       1.0396)
+Iteration  950  time:  46.16633892059326
+Iteration  951 :  tensor(1.00000e-03 *
+       1.0372)
+Iteration  951  time:  47.052846908569336
+Iteration  952 :  tensor(1.00000e-03 *
+       1.0387)
+Iteration  952  time:  45.81288170814514
+Iteration  953 :  tensor(1.00000e-03 *
+       1.0412)
+Iteration  953  time:  45.13323378562927
+Iteration  954 :  tensor(1.00000e-03 *
+       1.0404)
+Iteration  954  time:  46.34507465362549
+Iteration  955 :  tensor(1.00000e-03 *
+       1.0415)
+Iteration  955  time:  45.99595642089844
+Iteration  956 :  tensor(1.00000e-03 *
+       1.0460)
+Iteration  956  time:  47.00834107398987
+Iteration  957 :  tensor(1.00000e-03 *
+       1.0444)
+Iteration  957  time:  45.85399341583252
+Iteration  958 :  tensor(1.00000e-03 *
+       1.0444)
+Iteration  958  time:  44.40708255767822
+Iteration  959 :  tensor(1.00000e-03 *
+       1.0387)
+Iteration  959  time:  44.57152342796326
+Iteration  960 :  tensor(1.00000e-03 *
+       1.0358)
+Iteration  960  time:  46.60870409011841
+Iteration  961 :  tensor(1.00000e-03 *
+       1.0337)
+Iteration  961  time:  45.29287123680115
+Iteration  962 :  tensor(1.00000e-03 *
+       1.0375)
+Iteration  962  time:  46.97683382034302
+Iteration  963 :  tensor(1.00000e-03 *
+       1.0391)
+Iteration  963  time:  46.005253076553345
+Iteration  964 :  tensor(1.00000e-03 *
+       1.0353)
+Iteration  964  time:  44.567283630371094
+Iteration  965 :  tensor(1.00000e-03 *
+       1.0371)
+Iteration  965  time:  45.57135534286499
+Iteration  966 :  tensor(1.00000e-03 *
+       1.0357)
+Iteration  966  time:  44.36625695228577
+Iteration  967 :  tensor(1.00000e-03 *
+       1.0336)
+Iteration  967  time:  44.95370435714722
+Iteration  968 :  tensor(1.00000e-03 *
+       1.0341)
+Iteration  968  time:  46.608500242233276
+Iteration  969 :  tensor(1.00000e-03 *
+       1.0335)
+Iteration  969  time:  45.95307993888855
+Iteration  970 :  tensor(1.00000e-03 *
+       1.0319)
+Iteration  970  time:  44.106032371520996
+Iteration  971 :  tensor(1.00000e-03 *
+       1.0327)
+Iteration  971  time:  45.100202798843384
+Iteration  972 :  tensor(1.00000e-03 *
+       1.0342)
+Iteration  972  time:  46.080265045166016
+Iteration  973 :  tensor(1.00000e-03 *
+       1.0358)
+Iteration  973  time:  46.42833709716797
+Iteration  974 :  tensor(1.00000e-03 *
+       1.0340)
+Iteration  974  time:  43.22933101654053
+Iteration  975 :  tensor(1.00000e-03 *
+       1.0341)
+Iteration  975  time:  47.439347982406616
+Iteration  976 :  tensor(1.00000e-03 *
+       1.0317)
+Iteration  976  time:  46.17389893531799
+Iteration  977 :  tensor(1.00000e-03 *
+       1.0345)
+Iteration  977  time:  43.04011845588684
+Iteration  978 :  tensor(1.00000e-03 *
+       1.0334)
+Iteration  978  time:  45.21447134017944
+Iteration  979 :  tensor(1.00000e-03 *
+       1.0331)
+Iteration  979  time:  44.77584481239319
+Iteration  980 :  tensor(1.00000e-03 *
+       1.0366)
+Iteration  980  time:  47.058959007263184
+Iteration  981 :  tensor(1.00000e-03 *
+       1.0363)
+Iteration  981  time:  44.17578339576721
+Iteration  982 :  tensor(1.00000e-03 *
+       1.0366)
+Iteration  982  time:  44.33797812461853
+Iteration  983 :  tensor(1.00000e-03 *
+       1.0366)
+Iteration  983  time:  46.713443994522095
+Iteration  984 :  tensor(1.00000e-03 *
+       1.0372)
+Iteration  984  time:  45.27531027793884
+Iteration  985 :  tensor(1.00000e-03 *
+       1.0355)
+Iteration  985  time:  44.0284059047699
+Iteration  986 :  tensor(1.00000e-03 *
+       1.0390)
+Iteration  986  time:  46.323121070861816
+Iteration  987 :  tensor(1.00000e-03 *
+       1.0364)
+Iteration  987  time:  45.83154344558716
+Iteration  988 :  tensor(1.00000e-03 *
+       1.0346)
+Iteration  988  time:  43.34777545928955
+Iteration  989 :  tensor(1.00000e-03 *
+       1.0367)
+Iteration  989  time:  45.65849208831787
+Iteration  990 :  tensor(1.00000e-03 *
+       1.0351)
+Iteration  990  time:  45.47788619995117
+Iteration  991 :  tensor(1.00000e-03 *
+       1.0335)
+Iteration  991  time:  46.23634624481201
+Iteration  992 :  tensor(1.00000e-03 *
+       1.0359)
+Iteration  992  time:  46.78472876548767
+Iteration  993 :  tensor(1.00000e-03 *
+       1.0375)
+Iteration  993  time:  47.79544115066528
+Iteration  994 :  tensor(1.00000e-03 *
+       1.0364)
+Iteration  994  time:  46.968424797058105
+Iteration  995 :  tensor(1.00000e-03 *
+       1.0374)
+Iteration  995  time:  44.573999881744385
+Iteration  996 :  tensor(1.00000e-03 *
+       1.0362)
+Iteration  996  time:  44.945777893066406
+Iteration  997 :  tensor(1.00000e-03 *
+       1.0333)
+Iteration  997  time:  47.17935013771057
+Iteration  998 :  tensor(1.00000e-03 *
+       1.0333)
+Iteration  998  time:  47.8525013923645
+Iteration  999 :  tensor(1.00000e-03 *
+       1.0329)
