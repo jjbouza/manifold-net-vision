@@ -7,9 +7,10 @@ from torch.autograd import Variable
 import torchvision
 from torchvision import datasets, transforms
 import numpy as np
-import TemporalReduction as tr
+import GrassmannAverage as gm
 import cv2
 
+#Loads video into numpy array
 def getVideoArray(name):
     #Load video into numpy array.
     cap = cv2.VideoCapture(name)
@@ -30,9 +31,9 @@ def getVideoArray(name):
     return buf
 
 
-class VAE(nn.Module):
+class autoencoder(nn.Module):
     def __init__(self, video_length, channel_factor, latent_variable_size):
-        super(VAE, self).__init__()
+        super(autoencoder, self).__init__()
 
         self.channel_factor = channel_factor
         self.latent_variable_size = latent_variable_size
@@ -49,10 +50,11 @@ class VAE(nn.Module):
 
         self.e4 = nn.Conv2d(channel_factor*4, channel_factor*8, 3, 3)
         self.bn4 = nn.BatchNorm2d(channel_factor*8)
+        
+        #Grassmann average - PCA approximation in latent space.
+        self.pca = gm.GrassmannAverageProjection(video_length, 20)
 
-        #self.pca = tr.TemporalBottleneck(video_length, 20)
-
-        self.fc1 = nn.Linear(channel_factor*8*8*15, latent_variable_size)
+        #self.fc1 = nn.Linear(channel_factor*8*8*15, latent_variable_size)
         #self.fc1 = nn.Linear(20, latent_variable_size)
 
         # decoder
@@ -86,9 +88,7 @@ class VAE(nn.Module):
         h4 = self.elu(self.bn4(self.e4(h3)))
         h5 = h4.view(-1, self.channel_factor*8*8*15)
 
-        y = h5
-        self.weight_penalty = 0
-        #y, self.weight_penalty = self.pca(h5)
+        y, self.weight_penalty = self.pca(h5)
 
         return self.fc1(y), shape_outputs
 
@@ -106,11 +106,12 @@ class VAE(nn.Module):
         res = self.decode(latent, shape_outputs)
         return res, self.weight_penalty
 
-model = VAE(video_length=300,channel_factor=16, latent_variable_size=50)
+model = autoencoder(video_length=300,channel_factor=16, latent_variable_size=50)
 model_parameters = filter(lambda p: p.requires_grad, model.parameters())
 params = sum([np.prod(p.size()) for p in model_parameters])
-print(params)
+print("Model Parameters: ", params)
 
+#MSE loss
 def loss_function(recon_x, x):
     mse_loss = torch.mean((recon_x-x)**2)
     return mse_loss
@@ -118,10 +119,9 @@ def loss_function(recon_x, x):
 
 optimizer = optim.Adam(model.parameters(), lr=1e-2)
 
-def train(epoch):
+def train():
     video = torch.from_numpy(getVideoArray('hd2.mp4')[450:750]).permute(0,3,1,2)
-    np.save('frames.npy', video.numpy())
-    quit()
+
     loss_track = []
     recon_batch = None
 
@@ -144,7 +144,7 @@ def train(epoch):
     return recon_batch, loss_track
 
 
-vid,loss = train(1)
+vid,loss = train()
 np.save('out_m2', vid.detach().numpy())
 np.save('loss_m2', np.array(loss))
 torch.save(model, 'model2')
