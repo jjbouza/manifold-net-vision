@@ -6,8 +6,8 @@ import fm_ops as ops
 
 class GrassmannAverageProjection(nn.Module):
     def __init__(self, in_frames, out_frames):
-        super(TemporalBottleneck, self).__init__()
-        self.temporal_mean = TemporalMean(in_frames, out_frames)
+        super(GrassmannAverageProjection, self).__init__()
+        self.temporal_mean = GrassmannAverage(in_frames, out_frames)
 
     def forward(self, x):
         y, weight_penalty = self.temporal_mean(x)
@@ -16,8 +16,8 @@ class GrassmannAverageProjection(nn.Module):
 
 class GrassmannAverageBottleneck(nn.Module):
     def __init__(self, in_frames, out_frames):
-        super(TemporalBottleneckReconstruct, self).__init__()
-        self.temporal_mean = TemporalMean(in_frames, out_frames)
+        super(GrassmannAverageBottleneck, self).__init__()
+        self.temporal_mean = GrassmannAverage(in_frames, out_frames)
 
     def forward(self, x):
         y, weight_penalty = self.temporal_mean(x)
@@ -28,7 +28,7 @@ class GrassmannAverageBottleneck(nn.Module):
 #this module reduces the first dimenion by taking a weighted FM.
 class GrassmannAverage(nn.Module):
     def __init__(self, in_frames, out_frames):
-        super(TemporalMean, self).__init__()
+        super(GrassmannAverage, self).__init__()
         self.out_frames = out_frames
         self.num_blocks = int(in_frames/out_frames)
         self.weights = nn.Parameter(to.Tensor([1/n for n in range(2, self.num_blocks+2)]), requires_grad=True)
