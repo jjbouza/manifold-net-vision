@@ -55,7 +55,7 @@ class autoencoder(nn.Module):
         self.pca = gm.GrassmannAverageProjection(video_length, 20)
 
         #self.fc1 = nn.Linear(channel_factor*8*8*15, latent_variable_size)
-        #self.fc1 = nn.Linear(20, latent_variable_size)
+        self.fc1 = nn.Linear(20, latent_variable_size)
 
         # decoder
         self.d1 = nn.Linear(latent_variable_size, channel_factor*8*8*15)
