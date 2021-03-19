@@ -2,7 +2,7 @@
 PyTorch implementation of manifold valued convolutions - developed in CVGMI lab at the University of Florida.
 Part of the code used for experiments in the paper ManifoldNet: A Deep Network Framework for Manifold-valued Data.
 
-### Paper Authors: Rudrasis Chakraborty, Jose Bouza, Baba C. Vemuri
+### Paper Authors: Rudrasis Chakraborty, Jose Bouza, Jonathan Manton, Baba C. Vemuri
 ### Code Author: Jose Bouza
 
 This repository currently includes PyTorch implementations of the Grassmann averaging block, a dimensionality reduction layer
